@@ -1,0 +1,76 @@
+Match Number,Date,Venue,Team 1,Team 2,Toss Winner,Toss Decision,Outcome (Result),Player of Match
+1616,07-07-2022,"The Rose Bowl, Southampton",India,England,India,bat,India,Hardik Pandya
+1628,09-07-2022,"Edgbaston, Birmingham",India,England,England,field,India,Bhuvneshwar Kumar
+1631,10-07-2022,"Trent Bridge, Nottingham",England,India,England,bat,England,Reece Topley
+1467,16-02-2022,"Eden Gardens, Kolkata",West Indies,India,India,field,India,Ravi Bishnoi
+1473,18-02-2022,"Eden Gardens, Kolkata",India,West Indies,West Indies,field,India,Rishabh Pant
+1479,20-02-2022,"Eden Gardens, Kolkata",India,West Indies,West Indies,field,India,Suryakumar Yadav
+1492,24-02-2022,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",India,Sri Lanka,Sri Lanka,field,India,Ishan Kishan
+1493,26-02-2022,"Himachal Pradesh Cricket Association Stadium, Dharamsala",Sri Lanka,India,India,field,India,Shreyas Iyer
+1494,27-02-2022,"Himachal Pradesh Cricket Association Stadium, Dharamsala",Sri Lanka,India,Sri Lanka,bat,India,Shreyas Iyer
+1554,09-06-2022,"Arun Jaitley Stadium, Delhi",India,South Africa,South Africa,field,South Africa,David Miller
+1569,12-06-2022,"Barabati Stadium, Cuttack",India,South Africa,South Africa,field,South Africa,Heinrich Klaasen
+1571,14-06-2022,"Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium, Visakhapatnam",India,South Africa,South Africa,field,India,Yuzvendra Chahal
+1572,17-06-2022,"Saurashtra Cricket Association Stadium, Rajkot",India,South Africa,South Africa,field,India,Dinesh Karthik
+1842,23-10-2022,Melbourne Cricket Ground,Pakistan,India,India,field,India,Virat Kohli
+1848,27-10-2022,Sydney Cricket Ground,India,Netherlands,India,bat,India,Suryakumar Yadav
+1853,30-10-2022,Perth Stadium,India,South Africa,India,bat,South Africa,Lungi Ngidi
+1860,02-11-2022,Adelaide Oval,India,Bangladesh,Bangladesh,field,India,Virat Kohli
+1873,06-11-2022,Melbourne Cricket Ground,India,Zimbabwe,India,bat,India,Suryakumar Yadav
+1878,10-11-2022,Adelaide Oval,India,England,England,field,England,Alex Hales
+1580,26-06-2022,"The Village, Malahide, Dublin",Ireland,India,India,field,India,Yuzvendra Chahal
+1586,28-06-2022,"The Village, Malahide, Dublin",India,Ireland,India,bat,India,Deepak Hooda
+1702,29-07-2022,"Brian Lara Stadium, Tarouba, Trinidad",India,West Indies,West Indies,field,India,Dinesh Karthik
+1718,01-08-2022,"Warner Park, Basseterre, St Kitts",India,West Indies,West Indies,field,West Indies,Obed McCoy
+1720,02-08-2022,"Warner Park, Basseterre, St Kitts",West Indies,India,India,field,India,Suryakumar Yadav
+1725,06-08-2022,"Central Broward Regional Park Stadium Turf Ground, Lauderhill",India,West Indies,West Indies,field,India,Avesh Khan
+1726,07-08-2022,"Central Broward Regional Park Stadium Turf Ground, Lauderhill",India,West Indies,India,bat,India,Axar Patel
+1898,20-11-2022,"Bay Oval, Mount Maunganui",India,New Zealand,New Zealand,field,India,Suryakumar Yadav
+1750,28-08-2022,Dubai International Cricket Stadium,Pakistan,India,India,field,India,Hardik Pandya
+1754,31-08-2022,Dubai International Cricket Stadium,India,Hong Kong,Hong Kong,field,India,Suryakumar Yadav
+1758,04-09-2022,Dubai International Cricket Stadium,India,Pakistan,Pakistan,field,Pakistan,Mohammad Nawaz
+1759,06-09-2022,Dubai International Cricket Stadium,India,Sri Lanka,Sri Lanka,field,Sri Lanka,Dasun Shanaka
+1761,08-09-2022,Dubai International Cricket Stadium,India,Afghanistan,Afghanistan,field,India,Virat Kohli
+1788,20-09-2022,"Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh",India,Australia,Australia,field,Australia,Cameron Green
+1794,23-09-2022,"Vidarbha Cricket Association Stadium, Jamtha, Nagpur",Australia,India,India,field,India,Rohit Sharma
+1796,25-09-2022,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",Australia,India,India,field,India,Suryakumar Yadav
+1800,28-09-2022,"Greenfield International Stadium, Thiruvananthapuram",South Africa,India,India,field,India,Arshdeep Singh
+1803,02-10-2022,"Barsapara Cricket Stadium, Guwahati",India,South Africa,South Africa,field,India,KL Rahul
+1805,04-10-2022,"Holkar Cricket Stadium, Indore",South Africa,India,India,field,South Africa,Rilee Rossouw
+1984,03-01-2023,"Wankhede Stadium, Mumbai",India,Sri Lanka,Sri Lanka,field,India,Deepak Hooda
+1985,05-01-2023,"Maharashtra Cricket Association Stadium, Pune",Sri Lanka,India,India,field,Sri Lanka,Dasun Shanaka
+1986,07-01-2023,"Saurashtra Cricket Association Stadium, Rajkot",India,Sri Lanka,India,bat,India,Suryakumar Yadav
+1990,27-01-2023,"JSCA International Stadium Complex, Ranchi",New Zealand,India,India,field,New Zealand,Daryl Mitchell
+1991,29-01-2023,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",New Zealand,India,New Zealand,bat,India,Suryakumar Yadav
+1992,01-02-2023,"Narendra Modi Stadium, Ahmedabad",India,New Zealand,India,bat,India,Shubman Gill
+2188,03-08-2023,"Brian Lara Stadium, Tarouba, Trinidad",West Indies,India,West Indies,bat,West Indies,Jason Holder
+2191,06-08-2023,"Providence Stadium, Guyana",India,West Indies,India,bat,West Indies,Nicholas Pooran
+2192,08-08-2023,"Providence Stadium, Guyana",West Indies,India,West Indies,bat,India,Suryakumar Yadav
+2193,12-08-2023,"Central Broward Regional Park Stadium Turf Ground, Lauderhill",West Indies,India,West Indies,bat,India,Yashasvi Jaiswal
+2194,13-08-2023,"Central Broward Regional Park Stadium Turf Ground, Lauderhill",India,West Indies,India,bat,West Indies,Romario Shepherd
+2200,18-08-2023,"Malahide, Dublin",Ireland,India,India,field,India,Jasprit Bumrah
+2208,20-08-2023,"Malahide, Dublin",India,Ireland,Ireland,field,India,Rinku Singh
+2396,12-12-2023,"St George's Park, Gqeberha",India,South Africa,South Africa,field,South Africa,Tabraiz Shamsi
+2401,14-12-2023,"The Wanderers Stadium, Johannesburg",India,South Africa,South Africa,field,India,Suryakumar Yadav
+2360,23-11-2023,"Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium, Visakhapatnam",Australia,India,India,field,India,Suryakumar Yadav
+2367,26-11-2023,"Greenfield International Stadium, Thiruvananthapuram",India,Australia,Australia,field,India,Yashasvi Jaiswal
+2372,28-11-2023,"Barsapara Cricket Stadium, Guwahati",India,Australia,Australia,field,Australia,Glenn Maxwell
+2379,01-12-2023,"Shaheed Veer Narayan Singh International Stadium, Raipur",India,Australia,Australia,field,India,Axar Patel
+2380,03-12-2023,"M Chinnaswamy Stadium, Bengaluru",India,Australia,Australia,field,India,Axar Patel
+2428,11-01-2024,"Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh",Afghanistan,India,India,field,India,Shivam Dube
+2431,14-01-2024,"Holkar Cricket Stadium, Indore",Afghanistan,India,India,field,India,Axar Patel
+2639,05-06-2024,"Nassau County International Cricket Stadium, New York",Ireland,India,India,field,India,Jasprit Bumrah
+2658,09-06-2024,"Nassau County International Cricket Stadium, New York",India,Pakistan,Pakistan,field,India,Jasprit Bumrah
+2671,12-06-2024,"Nassau County International Cricket Stadium, New York",United States of America,India,India,field,India,Arshdeep Singh
+2710,20-06-2024,"Kensington Oval, Bridgetown, Barbados",India,Afghanistan,India,bat,India,Suryakumar Yadav
+2716,22-06-2024,"Sir Vivian Richards Stadium, North Sound, Antigua",India,Bangladesh,Bangladesh,field,India,Hardik Pandya
+2721,24-06-2024,"Daren Sammy National Cricket Stadium, Gros Islet, St Lucia",India,Australia,Australia,field,India,Rohit Sharma
+2724,27-06-2024,"Providence Stadium, Guyana",India,England,England,field,India,Axar Patel
+2729,29-06-2024,"Kensington Oval, Bridgetown, Barbados",India,South Africa,India,bat,India,Virat Kohli
+2737,06-07-2024,Harare Sports Club,Zimbabwe,India,India,field,Zimbabwe,Sikandar Raza
+2739,07-07-2024,Harare Sports Club,India,Zimbabwe,India,bat,India,Abhishek Sharma
+2749,10-07-2024,Harare Sports Club,India,Zimbabwe,India,bat,India,Washington Sundar
+2759,13-07-2024,Harare Sports Club,Zimbabwe,India,India,field,India,Yashasvi Jaiswal
+2762,14-07-2024,Harare Sports Club,India,Zimbabwe,Zimbabwe,field,India,Shivam Dube
+2767,27-07-2024,Pallekele International Cricket Stadium,India,Sri Lanka,Sri Lanka,field,India,Suryakumar Yadav
+2768,28-07-2024,Pallekele International Cricket Stadium,Sri Lanka,India,India,field,India,Ravi Bishnoi

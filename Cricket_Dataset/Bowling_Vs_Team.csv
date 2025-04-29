@@ -1,0 +1,233 @@
+Player ID,Player name,Vs_Team,Mat,Inns,Overs,Mdns,Runs,Wkts,BBI,Avg,Econ,SR,4w,5w
+12086,Abhishek Sharma,Zimbabwe,5,5,13,0,116,2,1|20,58,8.92,39,0,0
+13217,Arshdeep  Singh,Afghanistan,5,5,17,1,120,8,3|32,15,7.05,12.7,0,0
+13217,Arshdeep  Singh,Australia,5,5,20,0,208,7,3|37,29.71,10.4,17.1,0,0
+13217,Arshdeep  Singh,Bangladesh,3,3,11,0,78,5,2|30,15.6,7.09,13.2,0,0
+13217,Arshdeep  Singh,England,3,3,7.3,1,50,2,2|18,25,6.66,22.5,0,0
+13217,Arshdeep  Singh,Hong Kong,1,1,4,0,44,1,1|44,44,11,24,0,0
+13217,Arshdeep  Singh,Ireland,3,3,12,0,99,4,2|35,24.75,8.25,18,0,0
+13217,Arshdeep  Singh,Nepal,1,1,4,0,43,2,2|43,21.5,10.75,12,0,0
+13217,Arshdeep  Singh,Netherlands,1,1,4,0,37,2,2|37,18.5,9.25,12,0,0
+13217,Arshdeep  Singh,New Zealand,5,5,16,0,140,9,4|37,15.55,8.75,10.6,1,0
+13217,Arshdeep  Singh,Pakistan,4,4,15.4,0,123,7,3|32,17.57,7.85,13.4,0,0
+13217,Arshdeep  Singh,South Africa,6,6,20,0,183,10,3|32,18.3,9.15,12,0,0
+13217,Arshdeep  Singh,Sri Lanka,5,5,14.3,0,145,7,3|20,20.71,10,12.4,0,0
+13217,Arshdeep  Singh,U.S.A.,1,1,4,0,9,4,4|9,2.25,2.25,6,1,0
+13217,Arshdeep  Singh,West Indies,10,10,34.1,0,269,14,3|12,19.21,7.87,14.6,0,0
+13217,Arshdeep  Singh,Zimbabwe,1,1,2,0,9,1,1|9,9,4.5,12,0,0
+9781,Avesh  Khan,Afghanistan,1,1,4,0,55,1,1|55,55,13.75,24,0,0
+9781,Avesh  Khan,Australia,3,3,12,0,109,2,1|33,54.5,9.08,36,0,0
+9781,Avesh  Khan,England,1,1,4,0,43,1,1|43,43,10.75,24,0,0
+9781,Avesh  Khan,Hong Kong,1,1,4,0,53,1,1|53,53,13.25,24,0,0
+9781,Avesh  Khan,Ireland,1,1,2,0,22,1,1|22,22,11,12,0,0
+9781,Avesh  Khan,Nepal,1,1,4,0,32,3,3|32,10.66,8,8,0,0
+9781,Avesh  Khan,Pakistan,1,1,2,0,19,1,1|19,19,9.5,12,0,0
+9781,Avesh  Khan,South Africa,5,4,15,0,105,4,4|18,26.25,7,22.5,1,0
+9781,Avesh  Khan,Sri Lanka,1,1,4,1,23,2,2|23,11.5,5.75,12,0,0
+9781,Avesh  Khan,West Indies,5,5,15.2,0,157,3,2|17,52.33,10.23,30.6,0,0
+9781,Avesh  Khan,Zimbabwe,3,3,11,0,83,6,3|15,13.83,7.54,11,0,0
+8808,Axar Patel,Afghanistan,4,4,15,1,79,5,2|17,15.8,5.26,18,0,0
+8808,Axar Patel,Australia,9,9,33,0,208,15,3|16,13.86,6.3,13.2,0,0
+8808,Axar Patel,Bangladesh,2,2,3,0,32,0,,,10.66,,0,0
+8808,Axar Patel,England,4,4,13,0,100,3,3|23,33.33,7.69,26,0,0
+8808,Axar Patel,Ireland,3,3,4,0,27,1,1|3,27,6.75,24,0,0
+8808,Axar Patel,Netherlands,1,1,4,0,18,2,2|18,9,4.5,12,0,0
+8808,Axar Patel,New Zealand,5,5,18,0,125,6,3|9,20.83,6.94,18,0,0
+8808,Axar Patel,Pakistan,2,2,3,0,32,1,1|11,32,10.66,18,0,0
+8808,Axar Patel,South Africa,12,11,33.5,0,315,7,1|16,45,9.31,29,0,0
+8808,Axar Patel,Sri Lanka,6,6,22,0,171,7,2|14,24.42,7.77,18.8,0,0
+8808,Axar Patel,U.S.A.,1,1,3,0,25,1,1|25,25,8.33,18,0,0
+8808,Axar Patel,West Indies,7,6,18,1,156,7,3|15,22.28,8.66,15.4,0,0
+8808,Axar Patel,Zimbabwe,6,6,23.2,0,139,7,3|17,19.85,5.95,20,0,0
+7836,Deepak Chahar,Afghanistan,1,1,4,0,28,0,,,7,,0,0
+7836,Deepak Chahar,Australia,4,4,16,0,155,3,2|44,51.66,9.68,32,0,0
+7836,Deepak Chahar,Bangladesh,3,3,10.2,0,56,8,6|7,7,5.41,7.7,0,1
+7836,Deepak Chahar,England,1,1,4,0,43,1,1|43,43,10.75,24,0,0
+7836,Deepak Chahar,New Zealand,3,3,10.2,0,110,3,1|26,36.66,10.64,20.6,0,0
+7836,Deepak Chahar,South Africa,5,5,19,1,133,5,1|22,26.6,7,22.8,0,0
+7836,Deepak Chahar,Sri Lanka,1,1,3,0,24,2,2|24,12,8,9,0,0
+7836,Deepak Chahar,West Indies,7,7,23.2,1,198,9,3|4,22,8.48,15.5,0,0
+9647,Hardik Pandya,Afghanistan,2,2,4,0,36,0,,,9,,0,0
+9647,Hardik Pandya,Australia,13,10,27,0,262,6,2|36,43.66,9.7,27,0,0
+9647,Hardik Pandya,Bangladesh,5,5,16,0,147,6,2|28,24.5,9.18,16,0,0
+9647,Hardik Pandya,England,15,14,44,0,356,14,4|33,25.42,8.09,18.8,2,0
+9647,Hardik Pandya,Ireland,5,5,14,1,117,5,3|27,23.4,8.35,16.8,0,0
+9647,Hardik Pandya,Namibia,1,,,,,,,,,,,
+9647,Hardik Pandya,Netherlands,1,1,1,0,9,0,,,9,,0,0
+9647,Hardik Pandya,New Zealand,13,11,29,0,268,9,4|16,29.77,9.24,19.3,1,0
+9647,Hardik Pandya,Pakistan,7,6,21.3,0,156,13,3|8,12,7.25,9.9,0,0
+9647,Hardik Pandya,Scotland,1,,,,,,,,,,,
+9647,Hardik Pandya,South Africa,12,10,30,0,262,9,3|20,29.11,8.73,20,0,0
+9647,Hardik Pandya,Sri Lanka,14,14,42.2,0,310,13,3|29,23.84,7.32,19.5,0,0
+9647,Hardik Pandya,U.A.E.,1,1,3,1,11,1,1|11,11,3.66,18,0,0
+9647,Hardik Pandya,U.S.A.,1,1,4,1,14,2,2|14,7,3.5,12,0,0
+9647,Hardik Pandya,West Indies,10,10,31,0,241,6,3|35,40.16,7.77,31,0,0
+9647,Hardik Pandya,Zimbabwe,1,1,3,0,16,2,2|16,8,5.33,9,0,0
+9311,Jasprit Bumrah,Afghanistan,2,2,8,1,32,4,3|7,8,4,12,0,0
+9311,Jasprit Bumrah,Australia,14,14,50.3,0,404,17,3|16,23.76,8,17.8,0,0
+9311,Jasprit Bumrah,Bangladesh,4,4,15,0,81,4,2|13,20.25,5.4,22.5,0,0
+9311,Jasprit Bumrah,England,5,5,15.2,1,82,9,3|14,9.11,5.34,10.2,0,0
+9311,Jasprit Bumrah,Ireland,4,4,15,3,64,8,2|6,8,4.26,11.2,0,0
+9311,Jasprit Bumrah,Namibia,1,1,4,0,19,2,2|19,9.5,4.75,12,0,0
+9311,Jasprit Bumrah,New Zealand,10,10,38,1,232,12,3|12,19.33,6.1,19,0,0
+9311,Jasprit Bumrah,Pakistan,4,4,14,2,76,5,3|14,15.2,5.42,16.8,0,0
+9311,Jasprit Bumrah,Scotland,1,1,3.4,1,10,2,2|10,5,2.72,11,0,0
+9311,Jasprit Bumrah,South Africa,3,3,12,0,89,3,2|18,29.66,7.41,24,0,0
+9311,Jasprit Bumrah,Sri Lanka,12,11,36,2,222,9,2|17,24.66,6.16,24,0,0
+9311,Jasprit Bumrah,U.A.E.,1,1,4,0,23,1,1|23,23,5.75,24,0,0
+9311,Jasprit Bumrah,U.S.A.,1,1,4,0,25,0,,,6.25,,0,0
+9311,Jasprit Bumrah,West Indies,5,5,20,0,162,8,2|20,20.25,8.1,15,0,0
+9311,Jasprit Bumrah,Zimbabwe,3,3,12,1,58,5,3|11,11.6,4.83,14.4,0,0
+10952,Khaleel Ahmed,Australia,3,3,11,0,116,3,2|39,38.66,10.54,22,0,0
+10952,Khaleel Ahmed,Bangladesh,3,3,12,0,108,2,1|37,54,9,36,0,0
+10952,Khaleel Ahmed,New Zealand,3,3,12,0,122,4,2|27,30.5,10.16,18,0,0
+10952,Khaleel Ahmed,Sri Lanka,1,1,3,0,28,0,,,9.33,,0,0
+10952,Khaleel Ahmed,West Indies,5,5,17,1,113,4,2|30,28.25,6.64,25.5,0,0
+10952,Khaleel Ahmed,Zimbabwe,3,3,11,0,75,3,2|32,25,6.81,22,0,0
+8292,Kuldeep Yadav,Afghanistan,2,2,7,0,63,3,2|33,21,9,14,0,0
+8292,Kuldeep Yadav,Australia,6,6,24,0,152,8,2|16,19,6.33,18,0,0
+8292,Kuldeep Yadav,Bangladesh,1,1,4,0,19,3,3|19,6.33,4.75,8,0,0
+8292,Kuldeep Yadav,England,3,3,12,0,77,8,5|24,9.62,6.41,9,0,1
+8292,Kuldeep Yadav,Ireland,2,2,6.3,1,37,7,4|21,5.28,5.69,5.5,1,0
+8292,Kuldeep Yadav,New Zealand,5,5,14,0,85,5,2|26,17,6.07,16.8,0,0
+8292,Kuldeep Yadav,South Africa,3,3,9.5,0,88,6,5|17,14.66,8.94,9.8,0,1
+8292,Kuldeep Yadav,Sri Lanka,9,8,30,0,222,12,3|52,18.5,7.4,15,0,0
+8292,Kuldeep Yadav,West Indies,9,9,36,1,228,17,3|12,13.41,6.33,12.7,0,0
+10808,Mohammed Siraj,Bangladesh,1,1,4,0,50,1,1|50,50,12.5,24,0,0
+10808,Mohammed Siraj,Ireland,1,1,3,0,13,1,1|13,13,4.33,18,0,0
+10808,Mohammed Siraj,New Zealand,4,4,16,1,133,8,4|17,16.62,8.31,12,1,0
+10808,Mohammed Siraj,Pakistan,1,1,4,0,19,0,,,4.75,,0,0
+10808,Mohammed Siraj,South Africa,3,3,10,1,84,1,1|27,84,8.4,60,0,0
+10808,Mohammed Siraj,Sri Lanka,5,5,17,0,128,3,1|22,42.66,7.52,34,0,0
+10808,Mohammed Siraj,U.S.A.,1,1,4,0,25,0,,,6.25,,0,0
+10754,Mukesh Kumar,Afghanistan,3,3,10,0,98,2,2|33,49,9.8,30,0,0
+10754,Mukesh Kumar,Australia,4,4,16,0,146,4,3|32,36.5,9.12,24,0,0
+10754,Mukesh Kumar,South Africa,2,2,5,0,55,3,2|34,18.33,11,10,0,0
+10754,Mukesh Kumar,West Indies,5,5,12.5,0,113,3,1|19,37.66,8.8,25.6,0,0
+10754,Mukesh Kumar,Zimbabwe,3,3,10.1,0,75,8,4|22,9.37,7.37,7.6,1,0
+14659,Ravi  Bishnoi,Afghanistan,4,4,15,0,124,3,2|39,41.33,8.26,30,0,0
+14659,Ravi  Bishnoi,Australia,5,5,20,0,164,9,3|32,18.22,8.2,13.3,0,0
+14659,Ravi  Bishnoi,Bangladesh,1,1,4,0,26,1,1|26,26,6.5,24,0,0
+14659,Ravi  Bishnoi,England,1,1,4,0,30,2,2|30,15,7.5,12,0,0
+14659,Ravi  Bishnoi,Ireland,3,3,12,0,101,5,2|23,20.2,8.41,14.4,0,0
+14659,Ravi  Bishnoi,Nepal,1,1,4,0,24,3,3|24,8,6,8,0,0
+14659,Ravi  Bishnoi,Pakistan,1,1,4,0,26,1,1|26,26,6.5,24,0,0
+14659,Ravi  Bishnoi,Sri Lanka,4,4,16,0,133,7,3|26,19,8.31,13.7,0,0
+14659,Ravi  Bishnoi,West Indies,7,7,26.4,0,176,11,4|16,16,6.6,14.5,1,0
+14659,Ravi  Bishnoi,Zimbabwe,5,5,19,2,106,6,4|13,17.66,5.57,19,1,0
+587,Ravindra Jadeja,Afghanistan,3,3,10,1,54,3,1|15,18,5.4,20,0,0
+587,Ravindra Jadeja,Australia,11,10,31,0,256,8,2|21,32,8.25,23.2,0,0
+587,Ravindra Jadeja,Bangladesh,5,5,18,0,126,3,2|22,42,7,36,0,0
+587,Ravindra Jadeja,England,7,7,24,1,175,4,2|26,43.75,7.29,36,0,0
+587,Ravindra Jadeja,Hong Kong,1,1,4,0,15,1,1|15,15,3.75,24,0,0
+587,Ravindra Jadeja,Ireland,1,1,1,0,7,0,,,7,,0,0
+587,Ravindra Jadeja,Namibia,1,1,4,0,16,3,2|16,5.33,4,8,0,0
+587,Ravindra Jadeja,New Zealand,6,6,20,0,129,5,2|18,25.8,6.45,24,0,0
+587,Ravindra Jadeja,Pakistan,7,7,21.4,0,127,4,2|11,31.75,5.86,32.5,0,0
+587,Ravindra Jadeja,Scotland,1,1,4,0,15,3,3|15,5,3.75,8,0,0
+587,Ravindra Jadeja,South Africa,8,8,21.5,0,158,4,2|25,39.5,7.23,32.7,0,0
+587,Ravindra Jadeja,Sri Lanka,10,9,30,1,207,5,2|24,41.4,6.9,36,0,0
+587,Ravindra Jadeja,U.S.A.,1,,,,,,,,,,,
+587,Ravindra Jadeja,West Indies,12,12,36.3,1,327,11,Mar-48,29.72,8.95,19.9,0,0
+10896,Rinku Singh,Afghanistan,4,,,,,,,,,,,
+10896,Rinku Singh,Australia,5,,,,,,,,,,,
+10896,Rinku Singh,Bangladesh,1,,,,,,,,,,,
+10896,Rinku Singh,Ireland,2,,,,,,,,,,,
+10896,Rinku Singh,Nepal,1,,,,,,,,,,,
+10896,Rinku Singh,South Africa,2,,,,,,,,,,,
+10896,Rinku Singh,Sri Lanka,3,1,1,0,3,2,2|3,1.5,3,3,0,0
+10896,Rinku Singh,Zimbabwe,5,,,,,,,,,,,
+12305,Riyan Parag,Sri Lanka,3,3,9.2,0,62,3,3|5,20.66,6.64,18.6,0,0
+12305,Riyan Parag,Zimbabwe,3,1,1,0,5,0,,,5,,0,0
+576,Rohit Sharma,Afghanistan,6,1,1,0,10,0,,,10,,0,0
+576,Rohit Sharma,Australia,23,2,1.2,0,14,0,,,10.5,,0,0
+576,Rohit Sharma,Bangladesh,13,,,,,,,,,,,
+576,Rohit Sharma,England,16,1,1,0,16,0,,,16,,0,0
+576,Rohit Sharma,Hong Kong,1,,,,,,,,,,,
+576,Rohit Sharma,Ireland,4,,,,,,,,,,,
+576,Rohit Sharma,Namibia,1,,,,,,,,,,,
+576,Rohit Sharma,Netherlands,1,,,,,,,,,,,
+576,Rohit Sharma,New Zealand,17,,,,,,,,,,,
+576,Rohit Sharma,Pakistan,12,,,,,,,,,,,
+576,Rohit Sharma,Scotland,1,,,,,,,,,,,
+576,Rohit Sharma,South Africa,18,3,4,0,42,0,,,10.5,,0,0
+576,Rohit Sharma,Sri Lanka,19,2,4,0,31,1,1|22,31,7.75,24,0,0
+576,Rohit Sharma,U.A.E.,1,,,,,,,,,,,
+576,Rohit Sharma,U.S.A.,1,,,,,,,,,,,
+576,Rohit Sharma,West Indies,22,,,,,,,,,,,
+576,Rohit Sharma,Zimbabwe,3,,,,,,,,,,,
+11195,Shivam Dubey,Afghanistan,5,4,8,0,74,3,1|4,24.66,9.25,16,0,0
+11195,Shivam Dubey,Australia,1,,,,,,,,,,,
+11195,Shivam Dubey,Bangladesh,5,4,7.3,0,60,3,3|30,20,8,15,0,0
+11195,Shivam Dubey,England,1,,,,,,,,,,,
+11195,Shivam Dubey,Ireland,3,2,3,0,24,0,,,8,,0,0
+11195,Shivam Dubey,Nepal,1,1,3,0,37,0,,,12.33,,0,0
+11195,Shivam Dubey,New Zealand,5,5,9,0,102,2,1|16,51,11.33,27,0,0
+11195,Shivam Dubey,Pakistan,1,,,,,,,,,,,
+11195,Shivam Dubey,South Africa,1,,,,,,,,,,,
+11195,Shivam Dubey,Sri Lanka,3,,,,,,,,,,,
+11195,Shivam Dubey,U.S.A.,1,1,1,0,11,0,,,11,,0,0
+11195,Shivam Dubey,West Indies,3,3,6,0,63,0,,,10.5,,0,0
+11195,Shivam Dubey,Zimbabwe,3,3,8,0,63,3,2|25,21,7.87,16,0,0
+14504,Tilak Verma,Afghanistan,2,,,,,,,,,,,
+14504,Tilak Verma,Australia,3,,,,,,,,,,,
+14504,Tilak Verma,Bangladesh,1,1,2,0,5,1,1|5,5,2.5,12,0,0
+14504,Tilak Verma,Ireland,2,,,,,,,,,,,
+14504,Tilak Verma,Nepal,1,,,,,,,,,,,
+14504,Tilak Verma,South Africa,2,1,1,0,4,0,-,-,4,-,0,0
+14504,Tilak Verma,West Indies,5,1,2,0,17,1,1|17,17,8.5,12,0,0
+7915,Suryakumar Yadav,Afghanistan,3,,,,,,,,,,,
+7915,Suryakumar Yadav,Australia,9,,,,,,,,,,,
+7915,Suryakumar Yadav,Bangladesh,2,,,,,,,,,,,
+7915,Suryakumar Yadav,England,8,,,,,,,,,,,
+7915,Suryakumar Yadav,Hong Kong,1,,,,,,,,,,,
+7915,Suryakumar Yadav,Ireland,3,,,,,,,,,,,
+7915,Suryakumar Yadav,Namibia,1,,,,,,,,,,,
+7915,Suryakumar Yadav,Netherlands,1,,,,,,,,,,,
+7915,Suryakumar Yadav,New Zealand,8,,,,,,,,,,,
+7915,Suryakumar Yadav,Pakistan,5,,,,,,,,,,,
+7915,Suryakumar Yadav,Scotland,1,,,,,,,,,,,
+7915,Suryakumar Yadav,South Africa,7,,,,,,,,,,,
+7915,Suryakumar Yadav,Sri Lanka,8,1,1,0,5,2,2|5,2.5,5,3,0,0
+7915,Suryakumar Yadav,U.S.A.,1,,,,,,,,,,,
+7915,Suryakumar Yadav,West Indies,12,,,,,,,,,,,
+7915,Suryakumar Yadav,Zimbabwe,1,,,,,,,,,,,
+1413,Virat Kohli,Afghanistan,6,,,,,,,,,,,
+1413,Virat Kohli,Australia,23,3,4,0,41,0,,,10.25,,0,0
+1413,Virat Kohli,Bangladesh,6,,,,,,,,,,,
+1413,Virat Kohli,England,21,3,6.4,0,45,2,1|13,22.5,6.75,20,0,0
+1413,Virat Kohli,Hong Kong,1,1,1,0,6,0,,,6,,0,0
+1413,Virat Kohli,Ireland,3,,,,,,,,,,,
+1413,Virat Kohli,Namibia,1,,,,,,,,,,,
+1413,Virat Kohli,Netherlands,1,,,,,,,,,,,
+1413,Virat Kohli,New Zealand,10,1,3,0,27,0,,,9,,0,0
+1413,Virat Kohli,Pakistan,11,2,5,0,42,1,1|21,42,8.4,30,0,0
+1413,Virat Kohli,Scotland,1,,,,,,,,,,,
+1413,Virat Kohli,South Africa,14,1,1,0,15,0,,,15,,0,0
+1413,Virat Kohli,Sri Lanka,8,1,3,0,13,0,,,4.33,,0,0
+1413,Virat Kohli,U.A.E.,1,,,,,,,,,,,
+1413,Virat Kohli,U.S.A.,1,,,,,,,,,,,
+1413,Virat Kohli,West Indies,14,1,1.4,0,15,1,1|15,15,9,10,0,0
+1413,Virat Kohli,Zimbabwe,3,,,,,,,,,,,
+10945,Washington Sundar,Afghanistan,4,4,12,0,91,3,3|18,30.33,7.58,24,0,0
+10945,Washington Sundar,Australia,3,3,12,0,85,2,2|34,42.5,7.08,36,0,0
+10945,Washington Sundar,Bangladesh,7,7,28,0,164,7,3|22,23.42,5.85,24,0,0
+10945,Washington Sundar,England,5,5,15.3,0,138,4,2|29,34.5,8.9,23.2,0,0
+10945,Washington Sundar,Ireland,2,2,5,0,38,0,,,7.6,,0,0
+10945,Washington Sundar,Nepal,1,1,1,0,11,0,,,11,,0,0
+10945,Washington Sundar,New Zealand,6,5,14,0,107,5,2|22,21.4,7.64,16.8,0,0
+10945,Washington Sundar,South Africa,2,2,7,0,46,0,,,6.57,,0,0
+10945,Washington Sundar,Sri Lanka,7,6,24,0,160,10,2|21,16,6.66,14.4,0,0
+10945,Washington Sundar,West Indies,7,7,20,1,151,5,1|12,30.2,7.55,24,0,0
+10945,Washington Sundar,Zimbabwe,5,5,18,0,93,8,3|15,11.62,5.16,13.5,0,0
+7910,Yuzvendra Chahal,Australia,10,10,35.5,0,320,8,3|25,40,8.93,26.8,0,0
+7910,Yuzvendra Chahal,Bangladesh,6,6,24,0,153,9,3|18,17,6.37,16,0,0
+7910,Yuzvendra Chahal,England,11,11,42,0,338,16,6|25,21.12,8.04,15.7,0,1
+7910,Yuzvendra Chahal,Hong Kong,1,1,4,0,18,0,,,4.5,,0,0
+7910,Yuzvendra Chahal,Ireland,3,3,11,0,70,7,3|21,10,6.36,9.4,0,0
+7910,Yuzvendra Chahal,New Zealand,14,14,51,1,400,11,2|26,36.36,7.84,27.8,0,0
+7910,Yuzvendra Chahal,Pakistan,2,2,8,0,75,1,1|43,75,9.37,48,0,0
+7910,Yuzvendra Chahal,South Africa,7,6,22.1,0,219,7,3|20,31.28,9.87,19,0,0
+7910,Yuzvendra Chahal,Sri Lanka,13,13,47,0,399,23,4|23,17.34,8.48,12.2,2,0
+7910,Yuzvendra Chahal,West Indies,10,10,37,0,328,11,2|19,29.81,8.86,20.1,0,0
+7910,Yuzvendra Chahal,Zimbabwe,3,3,12,1,89,3,1|19,29.66,7.41,24,0,0

@@ -1,0 +1,898 @@
+MatchID,BatsmanName,BowlerName,FielderName,ModeOfDismissal
+1616,Rohit Sharma,MM Ali,JC Buttler,caught
+1616,Ishan Kishan,MM Ali,MW Parkinson,caught
+1616,Suryakumar Yadav,CJ Jordan,JC Buttler,caught
+1616,Axar Patel,MW Parkinson,JJ Roy,caught
+1616,Hardik Pandya,RJW Topley,HC Brook,caught
+1616,DJ Malan,Hardik Pandya,,bowled
+1616,LS Livingstone,Hardik Pandya,KD Karthik,caught
+1616,JJ Roy,Hardik Pandya,HV Patel,caught
+1616,HC Brook,Yuzvendra Chahal,Suryakumar Yadav,caught
+1616,MM Ali,Yuzvendra Chahal,KD Karthik,stumped
+1616,SM Curran,Hardik Pandya,KD Karthik,caught
+1616,RJW Topley,Arshdeep Singh,KD Karthik,caught
+1616,MW Parkinson,Arshdeep Singh,DJ Hooda,caught
+1628,Rohit Sharma,RJ Gleeson,JC Buttler,caught
+1628,Virat Kohli,RJ Gleeson,DJ Malan,caught
+1628,Rishabh Pant,RJ Gleeson,JC Buttler,caught
+1628,Suryakumar Yadav,CJ Jordan,SM Curran,caught
+1628,Hardik Pandya,CJ Jordan,DJ Malan,caught
+1628,JJ Roy,B Kumar,Rohit Sharma,caught
+1628,JC Buttler,B Kumar,Rishabh Pant,caught
+1628,LS Livingstone,Jasprit Bumrah,,bowled
+1628,HC Brook,Yuzvendra Chahal,Suryakumar Yadav,caught
+1628,DJ Malan,Yuzvendra Chahal,HV Patel,caught
+1628,SM Curran,Jasprit Bumrah,Hardik Pandya,caught
+1628,MM Ali,Hardik Pandya,Rohit Sharma,caught
+1628,CJ Jordan,Hardik Pandya,"RG Sharma, YS Chahal",run out
+1628,RJ Gleeson,B Kumar,Virat Kohli,caught
+1631,JC Buttler,Avesh Khan,,bowled
+1631,JJ Roy,Umran Malik,Rishabh Pant,caught
+1631,DJ Malan,Ravi Bishnoi,Rishabh Pant,caught
+1631,MM Ali,Ravi Bishnoi,HV Patel,caught
+1631,HC Brook,HV Patel,Ravi Bishnoi,caught
+1631,Rishabh Pant,RJW Topley,JC Buttler,caught
+1631,Virat Kohli,DJ Willey,JJ Roy,caught
+1631,Rohit Sharma,RJW Topley,PD Salt,caught
+1631,Shreyas Iyer,RJW Topley,JC Buttler,caught
+1631,Ravindra Jadeja,RJ Gleeson,,lbw
+1631,Suryakumar Yadav,MM Ali,PD Salt,caught
+1631,Ravi Bishnoi,CJ Jordan,,bowled
+1467,BA King,B Kumar,Suryakumar Yadav,caught
+1467,KR Mayers,Yuzvendra Chahal,,lbw
+1467,RL Chase,Ravi Bishnoi,,lbw
+1467,R Powell,Ravi Bishnoi,VR Iyer,caught
+1467,AJ Hosein,Deepak Chahar,,caught and bowled
+1467,N Pooran,HV Patel,Virat Kohli,caught
+1467,OF Smith,HV Patel,Rohit Sharma,caught
+1467,Rohit Sharma,RL Chase,OF Smith,caught
+1467,Ishan Kishan,RL Chase,FA Allen,caught
+1467,Virat Kohli,FA Allen,KA Pollard,caught
+1467,Rishabh Pant,SS Cottrell,OF Smith,caught
+1473,Ishan Kishan,SS Cottrell,KR Mayers,caught
+1473,Rohit Sharma,RL Chase,BA King,caught
+1473,Suryakumar Yadav,RL Chase,,caught and bowled
+1473,Virat Kohli,RL Chase,,bowled
+1473,KR Mayers,Yuzvendra Chahal,,caught and bowled
+1473,BA King,Ravi Bishnoi,Suryakumar Yadav,caught
+1473,N Pooran,B Kumar,Ravi Bishnoi,caught
+1479,Ruturaj Gaikwad,JO Holder,KR Mayers,caught
+1479,Shreyas Iyer,HR Walsh,JO Holder,caught
+1479,Ishan Kishan,RL Chase,,bowled
+1479,Rohit Sharma,DC Drakes,,bowled
+1479,Suryakumar Yadav,R Shepherd,R Powell,caught
+1479,KR Mayers,Deepak Chahar,Ishan Kishan,caught
+1479,SD Hope,Deepak Chahar,Ishan Kishan,caught
+1479,KA Pollard,VR Iyer,Ravi Bishnoi,caught
+1479,JO Holder,VR Iyer,Shreyas Iyer,caught
+1479,N Pooran,SN Thakur,Ishan Kishan,caught
+1479,R Shepherd,HV Patel,Rohit Sharma,caught
+1479,DC Drakes,SN Thakur,Rohit Sharma,caught
+1492,Rohit Sharma,CBRLS Kumara,,bowled
+1492,Ishan Kishan,MD Shanaka,J Liyanage,caught
+1492,K Mishara,B Kumar,Rohit Sharma,caught
+1492,J Liyanage,VR Iyer,Sanju Samson,caught
+1492,LD Chandimal,Ravindra Jadeja,Ishan Kishan,stumped
+1492,MD Shanaka,Yuzvendra Chahal,B Kumar,caught
+1492,C Karunaratne,VR Iyer,Ishan Kishan,caught
+1493,MD Gunathilaka,Ravindra Jadeja,VR Iyer,caught
+1493,KIC Asalanka,Yuzvendra Chahal,,lbw
+1493,K Mishara,HV Patel,Shreyas Iyer,caught
+1493,LD Chandimal,Jasprit Bumrah,Rohit Sharma,caught
+1493,Rohit Sharma,PVD Chameera,,bowled
+1493,Ishan Kishan,CBRLS Kumara,MD Shanaka,caught
+1493,Sanju Samson,CBRLS Kumara,B Fernando,caught
+1494,MD Gunathilaka,Mohammed Siraj,,bowled
+1494,P Nissanka,Avesh Khan,VR Iyer,caught
+1494,KIC Asalanka,Avesh Khan,Sanju Samson,caught
+1494,J Liyanage,Ravi Bishnoi,,bowled
+1494,Rohit Sharma,PVD Chameera,C Karunaratne,caught
+1494,Sanju Samson,C Karunaratne,LD Chandimal,caught
+1554,Ruturaj Gaikwad,WD Parnell,T Bavuma,caught
+1554,Ishan Kishan,KA Maharaj,T Stubbs,caught
+1554,Shreyas Iyer,D Pretorius,,bowled
+1554,Rishabh Pant,A Nortje,HE van der Dussen,caught
+1554,T Bavuma,B Kumar,Rishabh Pant,caught
+1554,Q de Kock,Axar Patel,Ishan Kishan,caught
+1569,Ruturaj Gaikwad,K Rabada,KA Maharaj,caught
+1569,Ishan Kishan,A Nortje,HE van der Dussen,caught
+1569,Rishabh Pant,KA Maharaj,HE van der Dussen,caught
+1569,Hardik Pandya,WD Parnell,,bowled
+1569,Shreyas Iyer,D Pretorius,H Klaasen,caught
+1569,Axar Patel,A Nortje,,bowled
+1569,D Pretorius,B Kumar,Avesh Khan,caught
+1569,T Bavuma,Yuzvendra Chahal,,bowled
+1569,H Klaasen,HV Patel,Ravi Bishnoi,caught
+1571,Ruturaj Gaikwad,KA Maharaj,,caught and bowled
+1571,Shreyas Iyer,T Shamsi,A Nortje,caught
+1571,Ishan Kishan,D Pretorius,RR Hendricks,caught
+1571,Rishabh Pant,D Pretorius,T Bavuma,caught
+1571,T Bavuma,Axar Patel,Avesh Khan,caught
+1571,RR Hendricks,HV Patel,Yuzvendra Chahal,caught
+1571,HE van der Dussen,Yuzvendra Chahal,Rishabh Pant,caught
+1571,D Pretorius,Yuzvendra Chahal,Rishabh Pant,caught
+1571,DA Miller,HV Patel,Ruturaj Gaikwad,caught
+1571,H Klaasen,Yuzvendra Chahal,Axar Patel,caught
+1571,K Rabada,HV Patel,Yuzvendra Chahal,caught
+1571,T Shamsi,HV Patel,Avesh Khan,caught
+1572,Ruturaj Gaikwad,L Ngidi,Q de Kock,caught
+1572,Shreyas Iyer,M Jansen,,lbw
+1572,Ishan Kishan,A Nortje,Q de Kock,caught
+1572,Rishabh Pant,KA Maharaj,D Pretorius,caught
+1572,Hardik Pandya,L Ngidi,T Shamsi,caught
+1572,T Bavuma,Avesh Khan,,retired hurt
+1572,D Pretorius,Avesh Khan,Rishabh Pant,caught
+1572,H Klaasen,Yuzvendra Chahal,,lbw
+1572,HE van der Dussen,Avesh Khan,Ruturaj Gaikwad,caught
+1572,M Jansen,Avesh Khan,Ruturaj Gaikwad,caught
+1572,KA Maharaj,Avesh Khan,Shreyas Iyer,caught
+1572,A Nortje,Yuzvendra Chahal,Ishan Kishan,caught
+1572,L Ngidi,Axar Patel,Ruturaj Gaikwad,caught
+1575,Ishan Kishan,L Ngidi,,bowled
+1575,Ruturaj Gaikwad,L Ngidi,D Pretorius,caught
+1842,Babar Azam,Arshdeep Singh,,lbw
+1842,Mohammad Rizwan,Arshdeep Singh,B Kumar,caught
+1842,Iftikhar Ahmed,Mohammed Shami,,lbw
+1842,Shadab Khan,Hardik Pandya,Suryakumar Yadav,caught
+1842,Haider Ali,Hardik Pandya,Suryakumar Yadav,caught
+1842,Mohammad Nawaz,Hardik Pandya,KD Karthik,caught
+1842,Asif Ali,Arshdeep Singh,KD Karthik,caught
+1842,KL Rahul,Naseem Shah,,bowled
+1842,Rohit Sharma,Haris Rauf,Iftikhar Ahmed,caught
+1842,Suryakumar Yadav,Haris Rauf,Mohammad Rizwan,caught
+1842,Axar Patel,Shadab Khan,"Mohammad Rizwan, Babar Azam",run out
+1842,Hardik Pandya,Mohammad Nawaz,Babar Azam,caught
+1848,KL Rahul,PA van Meekeren,,lbw
+1848,Rohit Sharma,FJ Klaassen,CN Ackermann,caught
+1848,MP O'Dowd,Axar Patel,,bowled
+1848,BFW de Leede,Axar Patel,Hardik Pandya,caught
+1848,CN Ackermann,R Ashwin,Axar Patel,caught
+1848,TJG Pringle,Mohammed Shami,Virat Kohli,caught
+1848,LV van Beek,Arshdeep Singh,KD Karthik,caught
+1848,FJ Klaassen,Arshdeep Singh,,lbw
+1853,Rohit Sharma,L Ngidi,,caught and bowled
+1853,KL Rahul,L Ngidi,AK Markram,caught
+1853,Virat Kohli,L Ngidi,K Rabada,caught
+1853,Hardik Pandya,L Ngidi,K Rabada,caught
+1853,Suryakumar Yadav,WD Parnell,KA Maharaj,caught
+1853,Mohammed Shami,A Nortje,A Nortje,run out
+1853,Q de Kock,Arshdeep Singh,KL Rahul,caught
+1853,RR Rossouw,Arshdeep Singh,,lbw
+1853,T Bavuma,Mohammed Shami,KD Karthik,caught
+1853,AK Markram,Hardik Pandya,Suryakumar Yadav,caught
+1860,Rohit Sharma,Hasan Mahmud,Yasir Ali Chowdhury,caught
+1860,KL Rahul,Shakib Al Hasan,Mustafizur Rahman,caught
+1860,Suryakumar Yadav,Shakib Al Hasan,,bowled
+1860,Hardik Pandya,Hasan Mahmud,Yasir Ali Chowdhury,caught
+1860,Axar Patel,Hasan Mahmud,Shakib Al Hasan,caught
+1860,Liton Das,R Ashwin,KL Rahul,run out
+1860,Nazmul Hossain Shanto,Mohammed Shami,Suryakumar Yadav,caught
+1860,Afif Hossain,Arshdeep Singh,Suryakumar Yadav,caught
+1860,Shakib Al Hasan,Arshdeep Singh,DJ Hooda,caught
+1860,Yasir Ali Chowdhury,Hardik Pandya,Arshdeep Singh,caught
+1860,Mosaddek Hossain,Hardik Pandya,,bowled
+1873,Rohit Sharma,B Muzarabani,WP Masakadza,caught
+1873,Virat Kohli,SC Williams,RP Burl,caught
+1873,KL Rahul,Sikandar Raza,WP Masakadza,caught
+1873,Rishabh Pant,SC Williams,RP Burl,caught
+1873,Hardik Pandya,R Ngarava,B Muzarabani,caught
+1873,W Madhevere,B Kumar,Virat Kohli,caught
+1873,RW Chakabva,Arshdeep Singh,,bowled
+1873,SC Williams,Mohammed Shami,B Kumar,caught
+1873,CR Ervine,Hardik Pandya,,caught and bowled
+1873,T Munyonga,Mohammed Shami,,lbw
+1873,WP Masakadza,R Ashwin,Rohit Sharma,caught
+1873,Sikandar Raza,Hardik Pandya,Suryakumar Yadav,caught
+1873,TL Chatara,Axar Patel,,caught and bowled
+1878,KL Rahul,CR Woakes,JC Buttler,caught
+1878,Rohit Sharma,CJ Jordan,SM Curran,caught
+1878,Suryakumar Yadav,AU Rashid,PD Salt,caught
+1878,Virat Kohli,CJ Jordan,AU Rashid,caught
+1878,Rishabh Pant,CJ Jordan,"JC Buttler, CJ Jordan",run out
+1878,Hardik Pandya,CJ Jordan,,hit wicket
+1580,PR Stirling,Hardik Pandya,DJ Hooda,caught
+1580,GJ Delany,Avesh Khan,KD Karthik,caught
+1580,L Tucker,Yuzvendra Chahal,Axar Patel,caught
+1580,Ishan Kishan,CA Young,,bowled
+1580,Suryakumar Yadav,CA Young,,lbw
+1580,Hardik Pandya,J Little,,lbw
+1586,Ishan Kishan,MR Adair,L Tucker,caught
+1586,Sanju Samson,MR Adair,,bowled
+1586,Suryakumar Yadav,J Little,L Tucker,caught
+1586,Axar Patel,CA Young,GH Dockrell,caught
+1586,PR Stirling,Ravi Bishnoi,,bowled
+1586,GJ Delany,Umran Malik,Hardik Pandya,run out
+1586,A Balbirnie,HV Patel,Ravi Bishnoi,caught
+1586,L Tucker,Umran Malik,Yuzvendra Chahal,caught
+1702,Suryakumar Yadav,AJ Hosein,JO Holder,caught
+1702,Shreyas Iyer,OC McCoy,AJ Hosein,caught
+1702,Rishabh Pant,KMA Paul,AJ Hosein,caught
+1702,Hardik Pandya,AS Joseph,OC McCoy,caught
+1702,Rohit Sharma,JO Holder,SO Hetmyer,caught
+1702,Ravindra Jadeja,AS Joseph,KMA Paul,caught
+1702,KR Mayers,Arshdeep Singh,B Kumar,caught
+1702,JO Holder,Ravindra Jadeja,,bowled
+1702,N Pooran,R Ashwin,Rishabh Pant,caught
+1702,R Powell,Ravi Bishnoi,,bowled
+1702,SO Hetmyer,R Ashwin,Suryakumar Yadav,caught
+1702,OF Smith,Ravi Bishnoi,Rishabh Pant,stumped
+1702,AJ Hosein,Arshdeep Singh,,bowled
+1718,Rohit Sharma,OC McCoy,AJ Hosein,caught
+1718,Suryakumar Yadav,OC McCoy,DC Thomas,caught
+1718,Shreyas Iyer,AS Joseph,DC Thomas,caught
+1718,Rishabh Pant,AJ Hosein,OF Smith,caught
+1718,Hardik Pandya,JO Holder,OF Smith,caught
+1718,Ravindra Jadeja,OC McCoy,R Powell,caught
+1718,Avesh Khan,JO Holder,,bowled
+1718,KR Mayers,Hardik Pandya,R Ashwin,caught
+1718,N Pooran,R Ashwin,Suryakumar Yadav,caught
+1718,SO Hetmyer,Ravindra Jadeja,,caught and bowled
+1718,BA King,Avesh Khan,,bowled
+1718,R Powell,Arshdeep Singh,,bowled
+1720,BA King,Hardik Pandya,,bowled
+1720,N Pooran,B Kumar,Rishabh Pant,caught
+1720,KR Mayers,B Kumar,Rishabh Pant,caught
+1720,R Powell,Arshdeep Singh,DJ Hooda,caught
+1720,SO Hetmyer,Arshdeep Singh,"SA Yadav, RR Pant",run out
+1720,Rohit Sharma,AS Joseph,,retired hurt
+1720,Shreyas Iyer,AJ Hosein,DC Thomas,stumped
+1720,Suryakumar Yadav,DC Drakes,AS Joseph,caught
+1720,Hardik Pandya,JO Holder,DC Thomas,caught
+1725,Rohit Sharma,AJ Hosein,,bowled
+1725,Suryakumar Yadav,AS Joseph,,lbw
+1725,Rishabh Pant,OC McCoy,DC Drakes,caught
+1725,BA King,Avesh Khan,,caught and bowled
+1725,DC Thomas,Avesh Khan,DJ Hooda,caught
+1725,N Pooran,Axar Patel,"RR Pant, SV Samson",run out
+1725,KR Mayers,Axar Patel,DJ Hooda,caught
+1725,R Powell,Axar Patel,DJ Hooda,caught
+1725,JO Holder,Arshdeep Singh,Sanju Samson,caught
+1725,AJ Hosein,Ravi Bishnoi,Suryakumar Yadav,caught
+1725,SO Hetmyer,Ravi Bishnoi,,bowled
+1725,DC Drakes,Arshdeep Singh,,bowled
+1725,OC McCoy,Arshdeep Singh,,bowled
+1726,Ishan Kishan,DC Drakes,N Pooran,caught
+1726,Shreyas Iyer,JO Holder,,caught and bowled
+1726,Sanju Samson,OF Smith,,bowled
+1726,Hardik Pandya,OF Smith,OF Smith,run out
+1726,Axar Patel,OF Smith,N Pooran,caught
+1726,JO Holder,Axar Patel,,bowled
+1726,SSJ Brooks,Axar Patel,KD Karthik,stumped
+1726,DC Thomas,Axar Patel,,bowled
+1726,R Powell,Ravi Bishnoi,,lbw
+1726,KMA Paul,Ravi Bishnoi,,lbw
+1726,OF Smith,Kuldeep Yadav,Hardik Pandya,caught
+1726,SO Hetmyer,Ravi Bishnoi,Shreyas Iyer,caught
+1726,OC McCoy,Ravi Bishnoi,DJ Hooda,caught
+1898,Rishabh Pant,LH Ferguson,TG Southee,caught
+1898,Ishan Kishan,IS Sodhi,TG Southee,caught
+1898,Shreyas Iyer,LH Ferguson,,hit wicket
+1898,Hardik Pandya,TG Southee,JDS Neesham,caught
+1898,Washington Sundar,TG Southee,JDS Neesham,caught
+1898,FH Allen,B Kumar,Arshdeep Singh,caught
+1898,DP Conway,Washington Sundar,Arshdeep Singh,caught
+1898,GD Phillips,Yuzvendra Chahal,,bowled
+1898,DJ Mitchell,DJ Hooda,Shreyas Iyer,caught
+1898,JDS Neesham,Yuzvendra Chahal,Ishan Kishan,caught
+1898,MJ Santner,Mohammed Siraj,,caught and bowled
+1898,KS Williamson,Mohammed Siraj,,bowled
+1898,IS Sodhi,DJ Hooda,Rishabh Pant,stumped
+1898,TG Southee,DJ Hooda,Rishabh Pant,caught
+1898,AF Milne,DJ Hooda,Arshdeep Singh,caught
+1911,FH Allen,Arshdeep Singh,,lbw
+1911,MS Chapman,Mohammed Siraj,Arshdeep Singh,caught
+1911,GD Phillips,Mohammed Siraj,B Kumar,caught
+1911,DP Conway,Arshdeep Singh,Ishan Kishan,caught
+1911,JDS Neesham,Mohammed Siraj,Rishabh Pant,caught
+1911,MJ Santner,Mohammed Siraj,Yuzvendra Chahal,caught
+1911,DJ Mitchell,Arshdeep Singh,Rishabh Pant,caught
+1911,IS Sodhi,Arshdeep Singh,,bowled
+1911,AF Milne,Arshdeep Singh,Mohammed Siraj,run out
+1911,Ishan Kishan,AF Milne,MS Chapman,caught
+1911,Rishabh Pant,TG Southee,IS Sodhi,caught
+1911,Shreyas Iyer,TG Southee,JDS Neesham,caught
+1911,Suryakumar Yadav,IS Sodhi,GD Phillips,caught
+1750,Babar Azam,B Kumar,Arshdeep Singh,caught
+1750,Fakhar Zaman,Avesh Khan,KD Karthik,caught
+1750,Iftikhar Ahmed,Hardik Pandya,KD Karthik,caught
+1750,Mohammad Rizwan,Hardik Pandya,Avesh Khan,caught
+1750,Khushdil Shah,Hardik Pandya,Ravindra Jadeja,caught
+1750,Asif Ali,B Kumar,Suryakumar Yadav,caught
+1750,Mohammad Nawaz,Arshdeep Singh,KD Karthik,caught
+1750,Shahnawaz Dhani,Arshdeep Singh,,bowled
+1750,KL Rahul,Naseem Shah,,bowled
+1750,Rohit Sharma,Mohammad Nawaz,Iftikhar Ahmed,caught
+1750,Virat Kohli,Mohammad Nawaz,Iftikhar Ahmed,caught
+1750,Suryakumar Yadav,Naseem Shah,,bowled
+1750,Ravindra Jadeja,Mohammad Nawaz,,bowled
+1754,Rohit Sharma,A Shukla,Aizaz Khan,caught
+1754,KL Rahul,Mohammad Ghazanfar,SS McKechnie,caught
+1754,Yasim Murtaza,Arshdeep Singh,Avesh Khan,caught
+1754,Nizakat Khan,Arshdeep Singh,Ravindra Jadeja,run out
+1754,Babar Hayat,Ravindra Jadeja,Avesh Khan,caught
+1754,Aizaz Khan,Avesh Khan,,bowled
+1754,KD Shah,B Kumar,Ravi Bishnoi,caught
+1758,Rohit Sharma,Haris Rauf,Khushdil Shah,caught
+1758,KL Rahul,Shadab Khan,Mohammad Nawaz,caught
+1758,Suryakumar Yadav,Mohammad Nawaz,Asif Ali,caught
+1758,Rishabh Pant,Shadab Khan,Asif Ali,caught
+1758,Hardik Pandya,Mohammad Hasnain,Mohammad Nawaz,caught
+1758,Virat Kohli,Haris Rauf,Asif Ali,run out
+1758,Babar Azam,Ravi Bishnoi,Rohit Sharma,caught
+1758,Fakhar Zaman,Yuzvendra Chahal,Virat Kohli,caught
+1758,Mohammad Rizwan,Hardik Pandya,Suryakumar Yadav,caught
+1758,Asif Ali,Arshdeep Singh,,lbw
+1759,KL Rahul,M Theekshana,,lbw
+1759,Virat Kohli,D Madushanka,,bowled
+1759,Rohit Sharma,C Karunaratne,P Nissanka,caught
+1759,Suryakumar Yadav,MD Shanaka,M Theekshana,caught
+1759,Hardik Pandya,MD Shanaka,P Nissanka,caught
+1759,Rishabh Pant,D Madushanka,P Nissanka,caught
+1759,P Nissanka,Yuzvendra Chahal,Rohit Sharma,caught
+1759,KIC Asalanka,Yuzvendra Chahal,Suryakumar Yadav,caught
+1759,MD Gunathilaka,R Ashwin,KL Rahul,caught
+1759,BKG Mendis,Yuzvendra Chahal,,lbw
+1761,KL Rahul,Fareed Ahmad,Najibullah Zadran,caught
+1761,Suryakumar Yadav,Fareed Ahmad,,bowled
+1761,Karim Janat,B Kumar,Virat Kohli,caught
+1761,Mohammad Nabi,Arshdeep Singh,,lbw
+1761,Rashid Khan,DJ Hooda,Axar Patel,caught
+1788,Rohit Sharma,JR Hazlewood,NT Ellis,caught
+1788,Virat Kohli,NT Ellis,C Green,caught
+1788,KL Rahul,JR Hazlewood,NT Ellis,caught
+1788,Suryakumar Yadav,C Green,MS Wade,caught
+1788,Axar Patel,NT Ellis,C Green,caught
+1788,AJ Finch,Axar Patel,,bowled
+1788,C Green,Axar Patel,Virat Kohli,caught
+1788,JP Inglis,Axar Patel,,bowled
+1788,TH David,Yuzvendra Chahal,Hardik Pandya,caught
+1794,C Green,Axar Patel,"V Kohli, AR Patel",run out
+1794,GJ Maxwell,Axar Patel,,bowled
+1794,TH David,Axar Patel,,bowled
+1794,AJ Finch,Jasprit Bumrah,,bowled
+1794,KL Rahul,A Zampa,,bowled
+1794,Virat Kohli,A Zampa,,bowled
+1794,Suryakumar Yadav,A Zampa,,lbw
+1794,Hardik Pandya,PJ Cummins,AJ Finch,caught
+1796,AJ Finch,Axar Patel,Hardik Pandya,caught
+1796,C Green,B Kumar,KL Rahul,caught
+1796,GJ Maxwell,Yuzvendra Chahal,Axar Patel,run out
+1796,SPD Smith,Yuzvendra Chahal,KD Karthik,stumped
+1796,JP Inglis,Axar Patel,Rohit Sharma,caught
+1796,MS Wade,Axar Patel,,caught and bowled
+1796,TH David,HV Patel,Rohit Sharma,caught
+1796,KL Rahul,DR Sams,MS Wade,caught
+1796,Rohit Sharma,PJ Cummins,DR Sams,caught
+1796,Suryakumar Yadav,JR Hazlewood,AJ Finch,caught
+1796,Virat Kohli,DR Sams,AJ Finch,caught
+1800,T Bavuma,Deepak Chahar,,bowled
+1800,Q de Kock,Arshdeep Singh,,bowled
+1800,RR Rossouw,Arshdeep Singh,Rishabh Pant,caught
+1800,DA Miller,Arshdeep Singh,,bowled
+1800,T Stubbs,Deepak Chahar,Arshdeep Singh,caught
+1800,WD Parnell,Axar Patel,Suryakumar Yadav,caught
+1800,Rohit Sharma,K Rabada,Q de Kock,caught
+1800,Virat Kohli,A Nortje,Q de Kock,caught
+1803,Rohit Sharma,KA Maharaj,T Stubbs,caught
+1803,KL Rahul,KA Maharaj,,lbw
+1803,Suryakumar Yadav,A Nortje,"T Bavuma, A Nortje",run out
+1803,T Bavuma,Arshdeep Singh,Virat Kohli,caught
+1803,RR Rossouw,Arshdeep Singh,KD Karthik,caught
+1803,AK Markram,Axar Patel,,bowled
+1805,T Bavuma,UT Yadav,Rohit Sharma,caught
+1805,T Stubbs,Deepak Chahar,R Ashwin,caught
+1805,Rohit Sharma,K Rabada,,bowled
+1805,Shreyas Iyer,WD Parnell,,lbw
+1805,Rishabh Pant,L Ngidi,T Stubbs,caught
+1805,Suryakumar Yadav,D Pretorius,T Stubbs,caught
+1805,Axar Patel,WD Parnell,Q de Kock,caught
+1805,Deepak Chahar,D Pretorius,DA Miller,caught
+1805,Mohammed Siraj,D Pretorius,DA Miller,caught
+1984,Shubman Gill,M Theekshana,,lbw
+1984,Suryakumar Yadav,C Karunaratne,PBB Rajapaksa,caught
+1984,Sanju Samson,DM de Silva,D Madushanka,caught
+1984,Ishan Kishan,PWH de Silva,DM de Silva,caught
+1984,Hardik Pandya,D Madushanka,BKG Mendis,caught
+1984,DM de Silva,Shivam Mavi,Sanju Samson,caught
+1984,KIC Asalanka,Umran Malik,Ishan Kishan,caught
+1984,BKG Mendis,HV Patel,Sanju Samson,caught
+1984,PBB Rajapaksa,HV Patel,Hardik Pandya,caught
+1984,PWH de Silva,Shivam Mavi,Hardik Pandya,caught
+1984,MD Shanaka,Umran Malik,Yuzvendra Chahal,caught
+1984,M Theekshana,Shivam Mavi,Suryakumar Yadav,caught
+1984,CAK Rajitha,Axar Patel,"DJ Hooda, AR Patel",run out
+1984,D Madushanka,Axar Patel,"Ishan Kishan, DJ Hooda",run out
+1985,BKG Mendis,Yuzvendra Chahal,,lbw
+1985,P Nissanka,Axar Patel,RA Tripathi,caught
+1985,DM de Silva,Axar Patel,DJ Hooda,caught
+1985,KIC Asalanka,Umran Malik,Shubman Gill,caught
+1985,Ishan Kishan,CAK Rajitha,,bowled
+1985,Shubman Gill,CAK Rajitha,M Theekshana,caught
+1985,Hardik Pandya,C Karunaratne,BKG Mendis,caught
+1985,Suryakumar Yadav,D Madushanka,PWH de Silva,caught
+1985,Axar Patel,MD Shanaka,C Karunaratne,caught
+1986,Ishan Kishan,D Madushanka,DM de Silva,caught
+1986,Shubman Gill,PWH de Silva,,bowled
+1986,Hardik Pandya,CAK Rajitha,DM de Silva,caught
+1986,BKG Mendis,Axar Patel,Umran Malik,caught
+1986,P Nissanka,Arshdeep Singh,Shivam Mavi,caught
+1986,WIA Fernando,Hardik Pandya,Arshdeep Singh,caught
+1986,KIC Asalanka,Yuzvendra Chahal,Shivam Mavi,caught
+1986,DM de Silva,Yuzvendra Chahal,Shubman Gill,caught
+1986,C Karunaratne,Hardik Pandya,,lbw
+1986,MD Shanaka,Arshdeep Singh,Axar Patel,caught
+1986,D Madushanka,Arshdeep Singh,,bowled
+1990,FH Allen,Washington Sundar,Suryakumar Yadav,caught
+1990,MS Chapman,Washington Sundar,,caught and bowled
+1990,GD Phillips,Kuldeep Yadav,Suryakumar Yadav,caught
+1990,DP Conway,Arshdeep Singh,DJ Hooda,caught
+1990,MG Bracewell,Arshdeep Singh,Ishan Kishan,run out
+1990,Ishan Kishan,MG Bracewell,,bowled
+1990,Shubman Gill,MJ Santner,FH Allen,caught
+1990,Suryakumar Yadav,IS Sodhi,FH Allen,caught
+1990,Hardik Pandya,MG Bracewell,,caught and bowled
+1990,Washington Sundar,LH Ferguson,JA Duffy,caught
+1991,FH Allen,Yuzvendra Chahal,,bowled
+1991,DP Conway,Washington Sundar,Ishan Kishan,caught
+1991,MG Bracewell,Hardik Pandya,Arshdeep Singh,caught
+1991,IS Sodhi,Arshdeep Singh,Hardik Pandya,caught
+1991,LH Ferguson,Arshdeep Singh,Washington Sundar,caught
+1991,Shubman Gill,MG Bracewell,FH Allen,caught
+1991,Ishan Kishan,GD Phillips,"GD Phillips, MJ Santner",run out
+1991,Washington Sundar,GD Phillips,BM Tickner,run out
+1992,Ishan Kishan,MG Bracewell,,lbw
+1992,Suryakumar Yadav,BM Tickner,MG Bracewell,caught
+1992,Hardik Pandya,DJ Mitchell,MG Bracewell,caught
+1992,FH Allen,Hardik Pandya,Suryakumar Yadav,caught
+1992,DP Conway,Arshdeep Singh,Hardik Pandya,caught
+1992,MS Chapman,Arshdeep Singh,Ishan Kishan,caught
+1992,GD Phillips,Hardik Pandya,Suryakumar Yadav,caught
+1992,MJ Santner,Shivam Mavi,Suryakumar Yadav,caught
+1992,LH Ferguson,Hardik Pandya,Umran Malik,caught
+1992,BM Tickner,Hardik Pandya,Ishan Kishan,caught
+2188,KR Mayers,Yuzvendra Chahal,,lbw
+2188,BA King,Yuzvendra Chahal,,lbw
+2188,J Charles,Kuldeep Yadav,Tilak Verma,caught
+2188,N Pooran,Hardik Pandya,Tilak Verma,caught
+2188,SO Hetmyer,Arshdeep Singh,Axar Patel,caught
+2188,R Powell,Arshdeep Singh,Suryakumar Yadav,caught
+2188,Shubman Gill,AJ Hosein,N Pooran,stumped
+2188,Ishan Kishan,OC McCoy,R Powell,caught
+2188,Suryakumar Yadav,JO Holder,SO Hetmyer,caught
+2188,Tilak Verma,R Shepherd,SO Hetmyer,caught
+2188,Hardik Pandya,JO Holder,,bowled
+2188,Sanju Samson,JO Holder,KR Mayers,run out
+2188,Axar Patel,OC McCoy,SO Hetmyer,caught
+2188,Arshdeep Singh,R Shepherd,"N Pooran, SO Hetmyer",run out
+2191,Shubman Gill,AS Joseph,SO Hetmyer,caught
+2191,Suryakumar Yadav,OC McCoy,KR Mayers,run out
+2191,Ishan Kishan,R Shepherd,,bowled
+2191,Sanju Samson,AJ Hosein,N Pooran,stumped
+2191,Tilak Verma,AJ Hosein,OC McCoy,caught
+2191,Hardik Pandya,AS Joseph,,bowled
+2191,Axar Patel,R Shepherd,N Pooran,caught
+2191,BA King,Hardik Pandya,Suryakumar Yadav,caught
+2191,J Charles,Hardik Pandya,Tilak Verma,caught
+2191,KR Mayers,Arshdeep Singh,,lbw
+2191,R Powell,Hardik Pandya,Mukesh Kumar,caught
+2191,N Pooran,Mukesh Kumar,Sanju Samson,caught
+2191,R Shepherd,Yuzvendra Chahal,"Ishan Kishan, AR Patel",run out
+2191,JO Holder,Yuzvendra Chahal,Ishan Kishan,stumped
+2191,SO Hetmyer,Yuzvendra Chahal,,lbw
+2192,KR Mayers,Axar Patel,Arshdeep Singh,caught
+2192,N Pooran,Kuldeep Yadav,Sanju Samson,stumped
+2192,SO Hetmyer,Mukesh Kumar,Tilak Verma,caught
+2192,Yashasvi Jaiswal,OC McCoy,AS Joseph,caught
+2192,Shubman Gill,AS Joseph,J Charles,caught
+2192,Suryakumar Yadav,AS Joseph,BA King,caught
+2193,KR Mayers,Arshdeep Singh,Sanju Samson,caught
+2193,BA King,Arshdeep Singh,Kuldeep Yadav,caught
+2193,N Pooran,Kuldeep Yadav,Suryakumar Yadav,caught
+2193,R Powell,Kuldeep Yadav,Shubman Gill,caught
+2193,SD Hope,Yuzvendra Chahal,Axar Patel,caught
+2193,R Shepherd,Axar Patel,Sanju Samson,caught
+2193,JO Holder,Mukesh Kumar,,bowled
+2193,SO Hetmyer,Arshdeep Singh,Tilak Verma,caught
+2193,Shubman Gill,R Shepherd,SD Hope,caught
+2194,Yashasvi Jaiswal,AJ Hosein,,caught and bowled
+2194,Shubman Gill,AJ Hosein,,lbw
+2194,Tilak Verma,RL Chase,,caught and bowled
+2194,Sanju Samson,R Shepherd,N Pooran,caught
+2194,Hardik Pandya,R Shepherd,JO Holder,caught
+2194,Suryakumar Yadav,JO Holder,,lbw
+2194,Arshdeep Singh,R Shepherd,,bowled
+2194,Axar Patel,JO Holder,R Shepherd,caught
+2194,KR Mayers,Arshdeep Singh,Yashasvi Jaiswal,caught
+2194,N Pooran,Tilak Verma,Hardik Pandya,caught
+2200,A Balbirnie,Jasprit Bumrah,,bowled
+2200,L Tucker,Jasprit Bumrah,Sanju Samson,caught
+2200,HT Tector,M Prasidh Krishna,Tilak Verma,caught
+2200,PR Stirling,Ravi Bishnoi,,bowled
+2200,GH Dockrell,M Prasidh Krishna,Ruturaj Gaikwad,caught
+2200,MR Adair,Ravi Bishnoi,,lbw
+2200,C Campher,Arshdeep Singh,,bowled
+2200,Yashasvi Jaiswal,CA Young,PR Stirling,caught
+2200,Tilak Verma,CA Young,L Tucker,caught
+2208,Yashasvi Jaiswal,CA Young,C Campher,caught
+2208,Tilak Verma,BJ McCarthy,GH Dockrell,caught
+2208,Sanju Samson,B White,,bowled
+2208,Ruturaj Gaikwad,BJ McCarthy,HT Tector,caught
+2208,Rinku Singh,MR Adair,CA Young,caught
+2208,PR Stirling,M Prasidh Krishna,Arshdeep Singh,caught
+2208,L Tucker,M Prasidh Krishna,Ruturaj Gaikwad,caught
+2208,HT Tector,Ravi Bishnoi,,bowled
+2208,C Campher,Ravi Bishnoi,Shivam Dubey,caught
+2208,A Balbirnie,Arshdeep Singh,Sanju Samson,caught
+2208,BJ McCarthy,Jasprit Bumrah,Ravi Bishnoi,caught
+2208,MR Adair,Jasprit Bumrah,Tilak Verma,caught
+2396,Yashasvi Jaiswal,M Jansen,DA Miller,caught
+2396,Shubman Gill,LB Williams,,lbw
+2396,Tilak Verma,G Coetzee,M Jansen,caught
+2396,Suryakumar Yadav,T Shamsi,M Jansen,caught
+2396,Dhruv Jurel,AK Markram,T Stubbs,caught
+2396,Ravindra Jadeja,G Coetzee,,lbw
+2396,Arshdeep Singh,G Coetzee,AL Phehlukwayo,caught
+2396,MP Breetzke,Ravindra Jadeja,"Tilak Varma, JM Sharma, RA Jadeja",run out
+2396,AK Markram,Mukesh Kumar,Mohammed Siraj,caught
+2396,RR Hendricks,Kuldeep Yadav,Suryakumar Yadav,caught
+2396,H Klaasen,Mohammed Siraj,Yashasvi Jaiswal,caught
+2396,DA Miller,Mukesh Kumar,Mohammed Siraj,caught
+2401,Shubman Gill,KA Maharaj,,lbw
+2401,Tilak Verma,KA Maharaj,AK Markram,caught
+2401,Yashasvi Jaiswal,T Shamsi,RR Hendricks,caught
+2401,Rinku Singh,N Burger,T Stubbs,caught
+2401,Suryakumar Yadav,LB Williams,MP Breetzke,caught
+2401,Ravindra Jadeja,LB Williams,"H Klaasen, LB Williams",run out
+2401,Dhruv Jurel,LB Williams,,hit wicket
+2401,MP Breetzke,Mukesh Kumar,,bowled
+2401,RR Hendricks,Arshdeep Singh,Mohammed Siraj,run out
+2401,H Klaasen,Arshdeep Singh,Rinku Singh,caught
+2401,AK Markram,Ravindra Jadeja,Yashasvi Jaiswal,caught
+2401,AL Phehlukwayo,Ravindra Jadeja,,caught and bowled
+2360,MW Short,Ravi Bishnoi,,bowled
+2360,SPD Smith,Mukesh Kumar,"Mukesh Kumar, M Prasidh Krishna",run out
+2360,JP Inglis,M Prasidh Krishna,Yashasvi Jaiswal,caught
+2360,Ruturaj Gaikwad,MP Stoinis,"MS Wade, NT Ellis",run out
+2360,Yashasvi Jaiswal,MW Short,SPD Smith,caught
+2360,Ishan Kishan,T Sangha,MW Short,caught
+2360,Tilak Verma,T Sangha,MP Stoinis,caught
+2360,Suryakumar Yadav,JP Behrendorff,AM Hardie,caught
+2360,Axar Patel,SA Abbott,,caught and bowled
+2360,Ravi Bishnoi,SA Abbott,"MS Wade, SA Abbott",run out
+2360,Arshdeep Singh,SA Abbott,"SPD Smith, SA Abbott",run out
+2367,Yashasvi Jaiswal,NT Ellis,A Zampa,caught
+2367,Ishan Kishan,MP Stoinis,NT Ellis,caught
+2367,Suryakumar Yadav,NT Ellis,MP Stoinis,caught
+2367,Ruturaj Gaikwad,NT Ellis,TH David,caught
+2367,MW Short,Ravi Bishnoi,,bowled
+2367,JP Inglis,Ravi Bishnoi,Tilak Verma,caught
+2367,GJ Maxwell,Axar Patel,Yashasvi Jaiswal,caught
+2367,SPD Smith,M Prasidh Krishna,Yashasvi Jaiswal,caught
+2367,TH David,Ravi Bishnoi,Ruturaj Gaikwad,caught
+2367,MP Stoinis,Mukesh Kumar,Axar Patel,caught
+2367,A Zampa,Arshdeep Singh,,bowled
+2372,Yashasvi Jaiswal,JP Behrendorff,MS Wade,caught
+2372,Ishan Kishan,KW Richardson,MP Stoinis,caught
+2372,Suryakumar Yadav,AM Hardie,MS Wade,caught
+2372,AM Hardie,Arshdeep Singh,Ishan Kishan,caught
+2372,TM Head,Avesh Khan,Ravi Bishnoi,caught
+2372,JP Inglis,Ravi Bishnoi,,bowled
+2372,MP Stoinis,Axar Patel,Suryakumar Yadav,caught
+2372,TH David,Ravi Bishnoi,Suryakumar Yadav,caught
+2379,Yashasvi Jaiswal,AM Hardie,BR McDermott,caught
+2379,Shreyas Iyer,T Sangha,CJ Green,caught
+2379,Suryakumar Yadav,BJ Dwarshuis,MS Wade,caught
+2379,Ruturaj Gaikwad,T Sangha,BJ Dwarshuis,caught
+2379,Dhruv Jurel,BJ Dwarshuis,TM Head,caught
+2379,Axar Patel,BJ Dwarshuis,T Sangha,caught
+2379,Rinku Singh,JP Behrendorff,,lbw
+2379,Deepak Chahar,JP Behrendorff,CJ Green,caught
+2379,Ravi Bishnoi,JP Behrendorff,"JR Philippe, MS Wade",run out
+2379,JR Philippe,Ravi Bishnoi,,bowled
+2379,TM Head,Axar Patel,Mukesh Kumar,caught
+2379,AM Hardie,Axar Patel,,bowled
+2379,BR McDermott,Axar Patel,,bowled
+2379,TH David,Deepak Chahar,Yashasvi Jaiswal,caught
+2379,MW Short,Deepak Chahar,Yashasvi Jaiswal,caught
+2379,BJ Dwarshuis,Avesh Khan,,bowled
+2380,Yashasvi Jaiswal,JP Behrendorff,NT Ellis,caught
+2380,Ruturaj Gaikwad,BJ Dwarshuis,JP Behrendorff,caught
+2380,Suryakumar Yadav,BJ Dwarshuis,BR McDermott,caught
+2380,Rinku Singh,T Sangha,TH David,caught
+2380,Dhruv Jurel,AM Hardie,MW Short,caught
+2380,Axar Patel,JP Behrendorff,AM Hardie,caught
+2380,Shreyas Iyer,NT Ellis,,bowled
+2380,Ravi Bishnoi,NT Ellis,"JR Philippe, MS Wade",run out
+2380,JR Philippe,Mukesh Kumar,,bowled
+2380,TM Head,Ravi Bishnoi,,bowled
+2380,AM Hardie,Ravi Bishnoi,Shreyas Iyer,caught
+2380,TH David,Axar Patel,Avesh Khan,caught
+2380,BR McDermott,Arshdeep Singh,Rinku Singh,caught
+2380,MW Short,Mukesh Kumar,Ruturaj Gaikwad,caught
+2380,BJ Dwarshuis,Mukesh Kumar,,bowled
+2380,MS Wade,Arshdeep Singh,Shreyas Iyer,caught
+2428,Rahmanullah Gurbaz,Axar Patel,Dhruv Jurel,stumped
+2428,Ibrahim Zadran,Shivam Dubey,Rohit Sharma,caught
+2428,Rahmat Shah,Axar Patel,,bowled
+2428,Azmatullah Omarzai,Mukesh Kumar,,bowled
+2428,Mohammad Nabi,Mukesh Kumar,Rinku Singh,caught
+2428,Rohit Sharma,Fazalhaq Farooqi,"Rahmanullah Gurbaz, Ibrahim Zadran",run out
+2428,Shubman Gill,Mujeeb Ur Rahman,Rahmanullah Gurbaz,stumped
+2428,Tilak Verma,Azmatullah Omarzai,Gulbadin Naib,caught
+2428,Dhruv Jurel,Mujeeb Ur Rahman,Ibrahim Zadran,caught
+2431,Rahmanullah Gurbaz,Ravi Bishnoi,Shivam Dubey,caught
+2431,Ibrahim Zadran,Axar Patel,,bowled
+2431,Azmatullah Omarzai,Shivam Dubey,,bowled
+2431,Gulbadin Naib,Axar Patel,Rohit Sharma,caught
+2431,Mohammad Nabi,Ravi Bishnoi,Rinku Singh,caught
+2431,Najibullah Zadran,Arshdeep Singh,,bowled
+2431,Karim Janat,Arshdeep Singh,Axar Patel,caught
+2431,Noor Ahmad,Arshdeep Singh,Virat Kohli,caught
+2431,Mujeeb Ur Rahman,Arshdeep Singh,"JM Sharma, Arshdeep Singh",run out
+2431,Fazalhaq Farooqi,Arshdeep Singh,"YBK Jaiswal, JM Sharma",run out
+2431,Rohit Sharma,Fazalhaq Farooqi,,bowled
+2431,Virat Kohli,Naveen-ul-Haq,Ibrahim Zadran,caught
+2431,Yashasvi Jaiswal,Karim Janat,Rahmanullah Gurbaz,caught
+2431,Dhruv Jurel,Karim Janat,Mohammad Nabi,caught
+2435,Yashasvi Jaiswal,Fareed Ahmad,Mohammad Nabi,caught
+2435,Virat Kohli,Fareed Ahmad,Ibrahim Zadran,caught
+2435,Shivam Dubey,Azmatullah Omarzai,Rahmanullah Gurbaz,caught
+2435,Sanju Samson,Fareed Ahmad,Mohammad Nabi,caught
+2435,Rahmanullah Gurbaz,Kuldeep Yadav,Washington Sundar,caught
+2435,Ibrahim Zadran,Washington Sundar,Sanju Samson,stumped
+2435,Azmatullah Omarzai,Washington Sundar,Ravi Bishnoi,caught
+2435,Mohammad Nabi,Washington Sundar,Avesh Khan,caught
+2435,Karim Janat,Mukesh Kumar,Sanju Samson,run out
+2435,Najibullah Zadran,Avesh Khan,Virat Kohli,caught
+2435,Gulbadin Naib,Mukesh Kumar,Virat Kohli,run out
+2435,Rohit Sharma,Azmatullah Omarzai,,retired hurt
+2435,Rinku Singh,Fareed Ahmad,Rahmanullah Gurbaz,caught
+2435,Rohit Sharma,Fareed Ahmad,Rahmanullah Gurbaz,run out
+2435,Mohammad Nabi,Ravi Bishnoi,Rinku Singh,caught
+2435,Rahmanullah Gurbaz,Ravi Bishnoi,Rinku Singh,caught
+2278,Ruturaj Gaikwad,DS Airee,RK Paudel,caught
+2278,Tilak Verma,Sompal Kami,,bowled
+2278,Dhruv Jurel,S Lamichhane,,caught and bowled
+2278,Yashasvi Jaiswal,DS Airee,A Bohara,caught
+2278,Aasif Sheikh,Avesh Khan,Dhruv Jurel,caught
+2278,K Bhurtel,R Sai Kishore,Avesh Khan,caught
+2278,Kushal Malla,Ravi Bishnoi,Rinku Singh,caught
+2278,RK Paudel,Ravi Bishnoi,,lbw
+2278,DS Airee,Ravi Bishnoi,R Sai Kishore,caught
+2278,S Jora,Arshdeep Singh,Yashasvi Jaiswal,caught
+2278,Sompal Kami,Avesh Khan,R Sai Kishore,caught
+2278,Gulsan Jha,Arshdeep Singh,Yashasvi Jaiswal,caught
+2278,S Lamichhane,Avesh Khan,R Sai Kishore,caught
+2296,Mahmudul Hasan Joy,R Sai Kishore,Yashasvi Jaiswal,caught
+2296,Saif Hassan,Washington Sundar,Rinku Singh,caught
+2296,Zakir Hasan,Washington Sundar,Yashasvi Jaiswal,caught
+2296,Parvez Hossain Emon,Tilak Verma,Ruturaj Gaikwad,caught
+2296,Shahadat Hossain,R Sai Kishore,Tilak Verma,caught
+2296,Afif Hossain,R Sai Kishore,Shivam Dubey,caught
+2296,Mrittunjoy Chowdhury,Ravi Bishnoi,Dhruv Jurel,caught
+2296,Rakibul Hasan,Shahbaz Ahmed,Tilak Verma,caught
+2296,R Mondol,Arshdeep Singh,Rinku Singh,caught
+2296,Yashasvi Jaiswal,R Mondol,Mrittunjoy Chowdhury,caught
+2301,Zubaid Akbari,Shivam Dubey,Arshdeep Singh,caught
+2301,Mohammad Shahzad,Arshdeep Singh,Dhruv Jurel,caught
+2301,Noor Ali Zadran,Washington Sundar,"JM Sharma, Ravi Bishnoi",run out
+2301,Afsar Zazai,Ravi Bishnoi,,bowled
+2639,PR Stirling,Arshdeep Singh,Rishabh Pant,caught
+2639,A Balbirnie,Arshdeep Singh,,bowled
+2639,L Tucker,Hardik Pandya,,bowled
+2639,HT Tector,Jasprit Bumrah,Virat Kohli,caught
+2639,C Campher,Hardik Pandya,Rishabh Pant,caught
+2639,GH Dockrell,Mohammed Siraj,Jasprit Bumrah,caught
+2639,MR Adair,Hardik Pandya,Shivam Dubey,caught
+2639,BJ McCarthy,Axar Patel,,caught and bowled
+2639,J Little,Jasprit Bumrah,,bowled
+2639,GJ Delany,Arshdeep Singh,"RR Pant, Mohammed Siraj",run out
+2639,Virat Kohli,MR Adair,B White,caught
+2639,Rohit Sharma,MR Adair,,retired hurt
+2639,Suryakumar Yadav,B White,GH Dockrell,caught
+2658,Virat Kohli,Naseem Shah,Usman Khan,caught
+2658,Rohit Sharma,Shaheen Shah Afridi,Haris Rauf,caught
+2658,Axar Patel,Naseem Shah,,bowled
+2658,Suryakumar Yadav,Haris Rauf,Mohammad Amir,caught
+2658,Shivam Dubey,Naseem Shah,,caught and bowled
+2658,Rishabh Pant,Mohammad Amir,Babar Azam,caught
+2658,Ravindra Jadeja,Mohammad Amir,Imad Wasim,caught
+2658,Hardik Pandya,Haris Rauf,Iftikhar Ahmed,caught
+2658,Jasprit Bumrah,Haris Rauf,Imad Wasim,caught
+2658,Arshdeep Singh,Shaheen Shah Afridi,"Mohammad Rizwan, Babar Azam",run out
+2658,Babar Azam,Jasprit Bumrah,Suryakumar Yadav,caught
+2658,Usman Khan,Axar Patel,,lbw
+2658,Fakhar Zaman,Hardik Pandya,Rishabh Pant,caught
+2658,Mohammad Rizwan,Jasprit Bumrah,,bowled
+2658,Shadab Khan,Hardik Pandya,Rishabh Pant,caught
+2658,Iftikhar Ahmed,Jasprit Bumrah,Arshdeep Singh,caught
+2658,Imad Wasim,Arshdeep Singh,Rishabh Pant,caught
+2671,Shayan Jahangir,Arshdeep Singh,,lbw
+2671,AGS Gous,Arshdeep Singh,Hardik Pandya,caught
+2671,Aaron Jones,Hardik Pandya,Mohammed Siraj,caught
+2671,SR Taylor,Axar Patel,,bowled
+2671,NR Kumar,Arshdeep Singh,Mohammed Siraj,caught
+2671,CJ Anderson,Hardik Pandya,Rishabh Pant,caught
+2671,Harmeet Singh,Arshdeep Singh,Rishabh Pant,caught
+2671,Jasdeep Singh,Mohammed Siraj,"RR Pant, Mohammed Siraj",run out
+2671,Virat Kohli,SN Netravalkar,AGS Gous,caught
+2671,Rohit Sharma,SN Netravalkar,Harmeet Singh,caught
+2671,Rishabh Pant,Ali Khan,,bowled
+2710,Rohit Sharma,Fazalhaq Farooqi,Rashid Khan,caught
+2710,Rishabh Pant,Rashid Khan,,lbw
+2710,Virat Kohli,Rashid Khan,Mohammad Nabi,caught
+2710,Shivam Dubey,Rashid Khan,,lbw
+2710,Suryakumar Yadav,Fazalhaq Farooqi,Mohammad Nabi,caught
+2710,Hardik Pandya,Naveen-ul-Haq,Azmatullah Omarzai,caught
+2710,Ravindra Jadeja,Fazalhaq Farooqi,Gulbadin Naib,caught
+2710,Axar Patel,Naveen-ul-Haq,"Rahmanullah Gurbaz, Naveen-ul-Haq",run out
+2710,Rahmanullah Gurbaz,Jasprit Bumrah,Rishabh Pant,caught
+2710,Ibrahim Zadran,Axar Patel,Rohit Sharma,caught
+2710,Hazratullah,Jasprit Bumrah,Ravindra Jadeja,caught
+2710,Gulbadin Naib,Kuldeep Yadav,Rishabh Pant,caught
+2710,Azmatullah Omarzai,Ravindra Jadeja,Axar Patel,caught
+2710,Najibullah Zadran,Jasprit Bumrah,Arshdeep Singh,caught
+2710,Mohammad Nabi,Kuldeep Yadav,Ravindra Jadeja,caught
+2710,Rashid Khan,Arshdeep Singh,Ravindra Jadeja,caught
+2710,Naveen-ul-Haq,Arshdeep Singh,Rishabh Pant,caught
+2710,Noor Ahmad,Arshdeep Singh,Rohit Sharma,caught
+2716,Rohit Sharma,Shakib Al Hasan,Jaker Ali,caught
+2716,Virat Kohli,Tanzim Hasan Sakib,,bowled
+2716,Suryakumar Yadav,Tanzim Hasan Sakib,Liton Das,caught
+2716,Rishabh Pant,Rishad Hossain,Tanzim Hasan Sakib,caught
+2716,Shivam Dubey,Rishad Hossain,,bowled
+2716,Liton Das,Hardik Pandya,Suryakumar Yadav,caught
+2716,Shakib Al Hasan,Kuldeep Yadav,Rohit Sharma,caught
+2716,Nazmul Hossain Shanto,Jasprit Bumrah,Arshdeep Singh,caught
+2716,Jaker Ali,Arshdeep Singh,Virat Kohli,caught
+2716,Rishad Hossain,Jasprit Bumrah,Rohit Sharma,caught
+2716,Mahmudullah,Arshdeep Singh,Axar Patel,caught
+2721,Virat Kohli,JR Hazlewood,TH David,caught
+2721,Rishabh Pant,MP Stoinis,JR Hazlewood,caught
+2721,Rohit Sharma,MA Starc,,bowled
+2721,Suryakumar Yadav,MA Starc,MS Wade,caught
+2721,Shivam Dubey,MP Stoinis,DA Warner,caught
+2721,DA Warner,Arshdeep Singh,Suryakumar Yadav,caught
+2721,MR Marsh,Kuldeep Yadav,Axar Patel,caught
+2721,MP Stoinis,Axar Patel,Hardik Pandya,caught
+2721,TM Head,Jasprit Bumrah,Rohit Sharma,caught
+2721,MS Wade,Arshdeep Singh,Kuldeep Yadav,caught
+2721,TH David,Arshdeep Singh,Jasprit Bumrah,caught
+2724,Virat Kohli,RJW Topley,,bowled
+2724,Rishabh Pant,SM Curran,JM Bairstow,caught
+2724,Rohit Sharma,AU Rashid,,bowled
+2724,Suryakumar Yadav,JC Archer,CJ Jordan,caught
+2724,Hardik Pandya,CJ Jordan,SM Curran,caught
+2724,Shivam Dubey,CJ Jordan,JC Buttler,caught
+2724,Axar Patel,CJ Jordan,PD Salt,caught
+2724,JC Buttler,Axar Patel,Rishabh Pant,caught
+2724,PD Salt,Jasprit Bumrah,,bowled
+2724,JM Bairstow,Axar Patel,,bowled
+2724,MM Ali,Axar Patel,Rishabh Pant,stumped
+2724,LS Livingstone,Axar Patel,"AR Patel, Kuldeep Yadav",run out
+2724,AU Rashid,Hardik Pandya,Suryakumar Yadav,run out
+2724,JC Archer,Jasprit Bumrah,,lbw
+2729,Rohit Sharma,KA Maharaj,H Klaasen,caught
+2729,Rishabh Pant,KA Maharaj,Q de Kock,caught
+2729,Suryakumar Yadav,K Rabada,H Klaasen,caught
+2729,Axar Patel,K Rabada,Q de Kock,run out
+2729,Virat Kohli,M Jansen,K Rabada,caught
+2729,Shivam Dubey,A Nortje,DA Miller,caught
+2729,Ravindra Jadeja,A Nortje,KA Maharaj,caught
+2729,RR Hendricks,Jasprit Bumrah,,bowled
+2729,AK Markram,Arshdeep Singh,Rishabh Pant,caught
+2729,T Stubbs,Axar Patel,,bowled
+2729,Q de Kock,Arshdeep Singh,Kuldeep Yadav,caught
+2729,H Klaasen,Hardik Pandya,Rishabh Pant,caught
+2729,M Jansen,Jasprit Bumrah,,bowled
+2729,DA Miller,Hardik Pandya,Suryakumar Yadav,caught
+2729,K Rabada,Hardik Pandya,Suryakumar Yadav,caught
+2737,I Kaia,Mukesh Kumar,,bowled
+2737,BJ Bennett,Ravi Bishnoi,,bowled
+2737,W Madhevere,Ravi Bishnoi,,bowled
+2737,Sikandar Raza,Avesh Khan,Ravi Bishnoi,caught
+2737,J Campbell,Avesh Khan,"Washington Sundar, Avesh Khan",run out
+2737,D Myers,Washington Sundar,,caught and bowled
+2737,WP Masakadza,Washington Sundar,Dhruv Jurel,stumped
+2737,LM Jongwe,Ravi Bishnoi,,lbw
+2737,B Muzarabani,Ravi Bishnoi,,bowled
+2737,Abhishek Sharma,BJ Bennett,WP Masakadza,caught
+2737,Ruturaj Gaikwad,B Muzarabani,I Kaia,caught
+2737,Riyan Parag,TL Chatara,B Mavuta,caught
+2737,Rinku Singh,TL Chatara,BJ Bennett,caught
+2737,Shubman Gill,Sikandar Raza,,bowled
+2737,Ravi Bishnoi,Sikandar Raza,,lbw
+2737,Avesh Khan,WP Masakadza,Sikandar Raza,caught
+2737,Mukesh Kumar,Sikandar Raza,,bowled
+2737,Washington Sundar,TL Chatara,B Muzarabani,caught
+2739,Shubman Gill,B Muzarabani,BJ Bennett,caught
+2739,Abhishek Sharma,WP Masakadza,D Myers,caught
+2739,I Kaia,Mukesh Kumar,,bowled
+2739,BJ Bennett,Mukesh Kumar,,bowled
+2739,D Myers,Avesh Khan,Rinku Singh,caught
+2739,Sikandar Raza,Avesh Khan,Dhruv Jurel,caught
+2739,J Campbell,Washington Sundar,Ravi Bishnoi,caught
+2739,C Madande,Ravi Bishnoi,,lbw
+2739,WP Masakadza,Washington Sundar,Dhruv Jurel,run out
+2739,W Madhevere,Ravi Bishnoi,,bowled
+2739,B Muzarabani,Avesh Khan,Washington Sundar,caught
+2739,LM Jongwe,Mukesh Kumar,Ruturaj Gaikwad,caught
+2749,Yashasvi Jaiswal,Sikandar Raza,BJ Bennett,caught
+2749,Abhishek Sharma,Sikandar Raza,T Marumani,caught
+2749,Shubman Gill,B Muzarabani,Sikandar Raza,caught
+2749,Ruturaj Gaikwad,B Muzarabani,W Madhevere,caught
+2749,W Madhevere,Avesh Khan,Abhishek Sharma,caught
+2749,T Marumani,KK Ahmed,Shivam Dubey,caught
+2749,BJ Bennett,Avesh Khan,Ravi Bishnoi,caught
+2749,Sikandar Raza,Washington Sundar,Rinku Singh,caught
+2749,J Campbell,Washington Sundar,Riyan Parag,caught
+2749,C Madande,Washington Sundar,Rinku Singh,caught
+2759,T Marumani,Abhishek Sharma,Rinku Singh,caught
+2759,W Madhevere,Shivam Dubey,Rinku Singh,caught
+2759,BJ Bennett,Washington Sundar,Yashasvi Jaiswal,caught
+2759,J Campbell,Ravi Bishnoi,Ravi Bishnoi,run out
+2759,Sikandar Raza,TU Deshpande,Shubman Gill,caught
+2759,C Madande,KK Ahmed,Rinku Singh,caught
+2762,Yashasvi Jaiswal,Sikandar Raza,,bowled
+2762,Abhishek Sharma,B Muzarabani,C Madande,caught
+2762,Shubman Gill,R Ngarava,Sikandar Raza,caught
+2762,Riyan Parag,B Mavuta,R Ngarava,caught
+2762,Sanju Samson,B Muzarabani,T Marumani,caught
+2762,Shivam Dubey,M Faraz Akram,"Sikandar Raza, M Faraz Akram",run out
+2762,W Madhevere,Mukesh Kumar,,bowled
+2762,BJ Bennett,Mukesh Kumar,Shivam Dubey,caught
+2762,T Marumani,Washington Sundar,,lbw
+2762,D Myers,Shivam Dubey,Abhishek Sharma,caught
+2762,Sikandar Raza,Ravi Bishnoi,Shivam Dubey,run out
+2762,J Campbell,Shivam Dubey,TU Deshpande,caught
+2762,C Madande,Abhishek Sharma,Sanju Samson,caught
+2762,M Faraz Akram,Mukesh Kumar,Sanju Samson,caught
+2762,R Ngarava,Mukesh Kumar,,bowled
+2767,Shubman Gill,D Madushanka,AM Fernando,caught
+2767,Yashasvi Jaiswal,PWH de Silva,BKG Mendis,stumped
+2767,Suryakumar Yadav,M Pathirana,,lbw
+2767,Hardik Pandya,M Pathirana,,bowled
+2767,Riyan Parag,M Pathirana,,lbw
+2767,Rishabh Pant,M Pathirana,,bowled
+2767,Rinku Singh,AM Fernando,,bowled
+2767,BKG Mendis,Arshdeep Singh,Yashasvi Jaiswal,caught
+2767,P Nissanka,Axar Patel,,bowled
+2767,MDKJ Perera,Axar Patel,Ravi Bishnoi,caught
+2767,KIC Asalanka,Ravi Bishnoi,Yashasvi Jaiswal,caught
+2767,MD Shanaka,Riyan Parag,"RR Pant, Mohammed Siraj",run out
+2767,PHKD Mendis,Riyan Parag,,bowled
+2767,PWH de Silva,Arshdeep Singh,Riyan Parag,caught
+2767,M Pathirana,Mohammed Siraj,Axar Patel,caught
+2767,M Theekshana,Riyan Parag,,bowled
+2767,D Madushanka,Riyan Parag,,bowled
+2768,BKG Mendis,Arshdeep Singh,Ravi Bishnoi,caught
+2768,P Nissanka,Ravi Bishnoi,,lbw
+2768,PHKD Mendis,Hardik Pandya,Rinku Singh,caught
+2768,MDKJ Perera,Hardik Pandya,Rinku Singh,caught
+2768,MD Shanaka,Ravi Bishnoi,,bowled
+2768,PWH de Silva,Ravi Bishnoi,,bowled
+2768,KIC Asalanka,Arshdeep Singh,Sanju Samson,caught
+2768,M Theekshana,Axar Patel,,bowled
+2768,RTM Mendis,Axar Patel,Rishabh Pant,stumped
+2768,Sanju Samson,M Theekshana,,bowled
+2768,Suryakumar Yadav,M Pathirana,MD Shanaka,caught
+2768,Yashasvi Jaiswal,PWH de Silva,MD Shanaka,caught
+2769,Yashasvi Jaiswal,M Theekshana,,lbw
+2769,Sanju Samson,C Wickramasinghe,PWH de Silva,caught
+2769,Rinku Singh,M Theekshana,M Pathirana,caught
+2769,Suryakumar Yadav,AM Fernando,PWH de Silva,caught
+2769,Shivam Dubey,RTM Mendis,BKG Mendis,caught
+2769,Shubman Gill,PWH de Silva,BKG Mendis,stumped
+2769,Riyan Parag,PWH de Silva,RTM Mendis,caught
+2769,Washington Sundar,M Theekshana,,bowled
+2769,Mohammed Siraj,M Theekshana,BKG Mendis,run out
+2769,P Nissanka,Ravi Bishnoi,Riyan Parag,caught
+2769,BKG Mendis,Ravi Bishnoi,,lbw
+2769,PWH de Silva,Washington Sundar,Ravi Bishnoi,caught
+2769,KIC Asalanka,Washington Sundar,Sanju Samson,caught
+2769,MDKJ Perera,Rinku Singh,,caught and bowled
+2769,RTM Mendis,Rinku Singh,Shubman Gill,caught
+2769,PHKD Mendis,Suryakumar Yadav,Rinku Singh,caught
+2769,M Theekshana,Suryakumar Yadav,Sanju Samson,caught
+2769,MDKJ Perera,Washington Sundar,Ravi Bishnoi,caught
+2769,P Nissanka,Washington Sundar,Rinku Singh,caught
